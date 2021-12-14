@@ -1,0 +1,3 @@
+1|0|Public
+50|$|The direct word feature {{allowed the}} {{transfer}} of a full 32-bit word of information between an external device and main storage. This differed from the standard System/360 direct control feature which transferred a single byte. The Write Direct Word instruction placed {{the contents of a}} word in memory as static signals on the 32 direct-out lines and used the I2 field of the instruction as up to eight timing pulses. The Read Direct Word read the 32 <b>direct-in</b> <b>lines</b> into memory and sent the I2 field as timing pulses.|$|E
+

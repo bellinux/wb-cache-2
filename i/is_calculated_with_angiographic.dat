@@ -1,0 +1,37 @@
+0|10000|Public
+50|$|Note: Higher {{heating value}} (HHV) <b>is</b> <b>calculated</b> <b>with</b> {{the product of}} water being in liquid form while lower heating value (LHV) <b>is</b> <b>calculated</b> <b>with</b> the product of water being in vapor form.|$|R
+30|$|The LVEF, {{end-diastolic volume}} (LVEDV), and {{end-systolic}} volume (LVESV) <b>were</b> automatically <b>calculated</b> <b>with</b> a cREPO software program. A histogram of phase {{distribution in the}} whole LV was computed from rest GMPS data. The phase SD and bandwidth <b>were</b> <b>calculated</b> <b>with</b> 4 DM, cREPO, ECTb, and QGS programs. The bandwidth was expressed as 95 % width of the phase histogram [7]. Entropy of the histogram distribution <b>was</b> <b>calculated</b> <b>with</b> QGS and cREPO because of unavailability in 4 DM and ECTb [12, 19, 23]. Summed rest score (SRS) <b>was</b> <b>calculated</b> <b>with</b> a quantitative perfusion score (QPS; Cedars-Sinai Medical Center, Los Angeles, CA, USA) software program [12].|$|R
+30|$|The {{velocity}} <b>was</b> <b>calculated</b> <b>with</b> necessary parameters.|$|R
+5000|$|OEE <b>is</b> <b>calculated</b> <b>with</b> {{the formula}} (Availability)*(Performance)*(Quality) ...|$|R
+5000|$|... 8-hour ozone averages do {{not define}} AQI values greater than 300; AQI values of 301 or greater <b>are</b> <b>calculated</b> <b>with</b> 1-hour ozone concentrations. 1-hour SO2 values do not define higher AQI values greater than 200. AQI values of 201 or greater <b>are</b> <b>calculated</b> <b>with</b> 24-hour SO2 concentrations.|$|R
+30|$|The basic {{statistical}} indices (average ± standard deviation) <b>were</b> <b>calculated</b> {{for each}} variable. The data distribution was assessed with the Kolmogorov–Smirnov test. Since the data distribution was nonparametric, {{the correlation between}} the considered parameters <b>was</b> <b>calculated</b> <b>with</b> Spearman’s rank correlation coefficient. The statistical significance of a difference between recorded values <b>was</b> <b>calculated</b> <b>with</b> the Wilcoxon test.|$|R
+30|$|The new {{values of}} pressure, saturation, and {{temperature}} <b>are</b> <b>calculated</b> <b>with</b> the updated porosity and permeability. This iterative coupling procedure continues until it converges. The new values of pressure, saturation, and temperature <b>are</b> <b>calculated</b> <b>with</b> the updated porosity and permeability. This iterative coupling procedure continued until it converged.|$|R
+30|$|Site-level {{estimates}} of ΔC and ΔC 2 stocks and <b>were</b> <b>calculated</b> three ways. First, inventory- based site estimates ΔC and ΔC 2 stocks <b>were</b> <b>calculated</b> as an arithmetic mean of ground plots at each site. Second, ΔC 2 stocks <b>were</b> <b>calculated</b> <b>with</b> the K-MSN prediction. Third, and finally, ΔC 2 stocks <b>were</b> <b>calculated</b> <b>with</b> the K-MSN prediction weighted by flux footprint probability density.|$|R
+50|$|The {{distance}} <b>is</b> <b>calculated</b> <b>with</b> the Manhattan distance formula.|$|R
+5000|$|Diffusion {{process can}} also <b>be</b> <b>calculated</b> <b>with</b> Arrhenius equation: ...|$|R
+5000|$|The Coleman-Liau index <b>is</b> <b>calculated</b> <b>with</b> the {{following}} formula: ...|$|R
+5000|$|Mathematically, the RDW-CV <b>is</b> <b>calculated</b> <b>with</b> the {{following}} formula: ...|$|R
+5000|$|The Greiner Index (GI) <b>is</b> <b>calculated</b> <b>with</b> the {{following}} formula, ...|$|R
+5000|$|The Gunning fog index <b>is</b> <b>calculated</b> <b>with</b> the {{following}} algorithm: ...|$|R
+5000|$|The angular {{frequency}} can <b>be</b> <b>calculated</b> <b>with</b> the following formula: ...|$|R
+30|$|All {{statistics}} <b>were</b> <b>calculated</b> <b>with</b> {{the statistics}} software SPSS (version 16).|$|R
+5000|$|Additionally, a {{standardized}} form of TSH index may <b>be</b> <b>calculated</b> <b>with</b> ...|$|R
+5000|$|In general, the WACC can <b>be</b> <b>calculated</b> <b>with</b> the {{following}} formula: ...|$|R
+30|$|The {{derivatives}} <b>are</b> <b>calculated</b> <b>with</b> Maple and {{the program}} codes are available.|$|R
+5000|$|In R {{the above}} example could <b>be</b> <b>calculated</b> <b>with</b> the {{following}} code: ...|$|R
+5000|$|The {{points of}} the {{participating}} teams <b>are</b> <b>calculated</b> <b>with</b> the following method: ...|$|R
+5000|$|The {{number of}} layers in puff pastry <b>is</b> <b>calculated</b> <b>with</b> the formula: ...|$|R
+5000|$|Mp for a {{rectangular}} section can <b>be</b> <b>calculated</b> <b>with</b> the following formula: ...|$|R
+50|$|In chromatography, the HETP {{may also}} <b>be</b> <b>calculated</b> <b>with</b> the Van Deemter equation.|$|R
+50|$|Plus/minus {{percentages}} <b>are</b> <b>calculated</b> <b>with</b> {{respect to}} the Oxford City Council election, 2010.|$|R
+5000|$|Evapotranspiration <b>is</b> <b>calculated</b> <b>with</b> the 'FAO crop {{reference}} evapotranspiration', {{a standardized}} Penman-Monteith equation.|$|R
+5000|$|In all cases, the {{transferred}} energy can <b>be</b> <b>calculated</b> <b>with</b> {{the following}} formula: ...|$|R
+5000|$|... {{gradient}} {{from east}} to west <b>is</b> <b>calculated</b> <b>with</b> help of nodal points.(Figure 4) ...|$|R
+2500|$|The {{bit rate}} of PCM audio data can <b>be</b> <b>calculated</b> <b>with</b> the {{following}} formula: ...|$|R
+5000|$|The {{number of}} squares for each QDGC level can <b>be</b> <b>calculated</b> <b>with</b> this formula: ...|$|R
+5000|$|On {{the other}} hand, profit {{percentage}} <b>is</b> <b>calculated</b> <b>with</b> cost price taken as base ...|$|R
+5000|$|Cardiac output (= {{heart rate}} * stroke volume. Can also <b>be</b> <b>calculated</b> <b>with</b> Fick principle.) ...|$|R
+5000|$|The {{fracture}} toughness [...] can <b>be</b> <b>calculated</b> <b>with</b> maximum force, width [...] and thickness : ...|$|R
+5000|$|The Hub {{score and}} Authority score for a node <b>is</b> <b>calculated</b> <b>with</b> the {{following}} algorithm: ...|$|R
+50|$|M0 can <b>be</b> <b>calculated</b> <b>with</b> ordinal and {{cardinal}} data. Cardinal data <b>are</b> {{required to}} <b>calculate</b> M1 and M2.|$|R
+30|$|Data are {{presented}} as the mean ± S.D. Statistical significance <b>was</b> <b>calculated</b> <b>with</b> the Student’s t-test.|$|R

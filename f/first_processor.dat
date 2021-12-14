@@ -1,0 +1,37 @@
+84|496|Public
+5|$|April: AMD {{releases}} Opteron, the <b>first</b> <b>processor</b> with x86-64 extensions.|$|E
+25|$|The <b>first</b> <b>processor</b> with a Thumb {{instruction}} decoder was the ARM7TDMI. All ARM9 and later families, including XScale, have included a Thumb {{instruction decoder}}. The Thumb instruction set was originally inspired by SuperH's ISA; ARM licensed several patents from Hitachi.|$|E
+500|$|June: Intel {{releases}} its <b>first</b> <b>processor</b> with x86-64 extensions, a Xeon processor codenamed [...] "Nocona".|$|E
+50|$|EasyWriter {{was a word}} <b>processor</b> <b>first</b> {{written for}} the Apple II series {{computer}} in 1979, the <b>first</b> word <b>processor</b> for that platform.|$|R
+50|$|Whitefield, the <b>first</b> Xeon <b>processor</b> {{to feature}} QuickPath, {{suffered}} significant project delays and was cancelled. The <b>first</b> Xeon MP <b>processor</b> to feature QuickPath is Beckton.|$|R
+5000|$|One of the <b>first</b> <b>processors</b> to {{implement}} such counter and an associated instruction [...] to access {{it was the}} Intel Pentium, {{but they were not}} documented until Terje Mathisen wrote an article about reverse engineering them in Byte July 1994: ...|$|R
+5000|$|April: AMD {{releases}} Opteron, the <b>first</b> <b>processor</b> with x86-64 extensions.|$|E
+50|$|In November 2008, Intel {{released}} Core i7, {{which was}} the <b>first</b> <b>processor</b> requiring this socket.|$|E
+5000|$|... 1993. Intel {{launches}} {{the original}} Pentium microprocessor, the <b>first</b> <b>processor</b> with a x86 superscalar microarchitecture.|$|E
+50|$|The <b>first</b> <b>processors</b> using Socket 754 came on {{the market}} {{in the second half of}} 2003. Socket 754 was phased out in favor of Socket 939 on {{desktops}} because of low sales. The socket remained in use for laptops until it was replaced by S1 in 2006.|$|R
+50|$|The <b>first</b> Atom <b>processors</b> {{were based}} on the Bonnell microarchitecture.|$|R
+50|$|Celeron Dual-Core, the <b>first</b> dual-core <b>processor</b> for the budget/entry-level market.|$|R
+5000|$|June: Intel {{releases}} its <b>first</b> <b>processor</b> with x86-64 extensions, a Xeon processor codenamed [...] "Nocona".|$|E
+5000|$|TMS32010, {{the very}} <b>first</b> <b>processor</b> {{in the first}} series {{introduced}} in 1983, using external memory ...|$|E
+50|$|This was the <b>first</b> <b>processor</b> {{released}} by Cortus, {{it has now}} been superseded by the APS3R.|$|E
+50|$|Silvermont was the <b>first</b> Atom <b>processor</b> {{to feature}} an out-of-order architecture.|$|R
+50|$|The <b>first</b> AMD64-based <b>processor,</b> the Opteron, was {{released}} in April 2003.|$|R
+5000|$|In the <b>first</b> <b>processors</b> that {{supported}} PAE, support for larger physical addresses {{is evident in}} their package pinout, with address pin designations going up to A35 instead of stopping at A31. Later processor families use interconnects such as Hypertransport or QuickPath Interconnect, which lack dedicated memory address signals, so this relationship is less apparent.|$|R
+50|$|DEC's first multi-processor VAX system, the VAX-11/782, was an {{asymmetric}} dual-processor system; {{only the}} <b>first</b> <b>processor</b> {{had access to}} the I/O devices.|$|E
+50|$|The <b>first</b> <b>processor</b> to use HMCs was the Fujitsu SPARC64 XIfx, {{which is}} used in the Fujitsu PRIMEHPC FX100 {{supercomputer}} introduced in 2015.|$|E
+50|$|While many {{processors}} of {{the time}} used either superscalar instruction dispatch or superpipelined operation, the Clipper C400 was the <b>first</b> <b>processor</b> to use both.|$|E
+5000|$|... #Caption: Toshiba JW-10, the <b>first</b> word <b>processor</b> for the Japanese {{language}} (1971-1978 IEEE milestones) ...|$|R
+50|$|The 36-processor AsAP 1 chip {{is among}} the <b>first</b> {{multi-core}} <b>processor</b> chips to support completely unconstrained clock operation (requiring only that frequencies are below the maximum allowed) including arbitrary changes in frequency, starts, and stops. The 167-processor AsAP 2 chip is the <b>first</b> multi-core <b>processor</b> chip which enables individual processors to make fully unconstrained changes to their own clock frequencies.|$|R
+50|$|G200 was Matrox's <b>first</b> {{graphics}} <b>processor</b> {{to require}} added cooling {{in the form}} of a heatsink.|$|R
+50|$|SSSE3 {{has been}} {{referred}} to by the codenames Tejas New Instructions (TNI) or Merom New Instructions (MNI) for the <b>first</b> <b>processor</b> designs intended to support it.|$|E
+5000|$|QorIQ AMP Series T4240 as the <b>first</b> <b>processor</b> {{revealed}} with 12 cores {{followed by}} T2080 and T2081 with four cores and {{speeds up to}} 1.8 GHz.|$|E
+5000|$|In October 2015, Oracle {{released}} SPARC M7, the <b>first</b> <b>processor</b> {{based on}} the new Oracle SPARC Architecture 2015 specification.- [...] This revision includes VIS 4 instruction set extensions.|$|E
+50|$|NEC's SX-9 {{supercomputer}} was the world's <b>first</b> vector <b>processor</b> {{to exceed}} 100 gigaFLOPS per single core.|$|R
+50|$|Electric Pencil, {{released}} in December 1976 by Michael Shrayer, was the <b>first</b> word <b>processor</b> for home computers.|$|R
+5000|$|Ability {{to be used}} in 2 or 4 <b>processor</b> {{configurations}} (<b>first</b> CoolThreads <b>processor</b> {{capable of}} multi-processor capability) ...|$|R
+50|$|Carta was the world's <b>first</b> <b>processor</b> to {{complete}} integration to MasterCard MOTAPS, enabling rapid deployment for NFC programs. Their Charlottetown, PEI, data centre {{is the only}} secure third party issuer processing data host for financial services in Canada.|$|E
+50|$|The <b>first</b> <b>processor</b> with a Thumb {{instruction}} decoder was the ARM7TDMI. All ARM9 and later families, including XScale, have included a Thumb {{instruction decoder}}. The Thumb instruction set was originally inspired by SuperH's ISA; ARM licensed several patents from Hitachi.|$|E
+50|$|The <b>first</b> <b>processor</b> to {{be advertised}} as a PPU {{was called the}} PhysX chip, {{introduced}} by a fabless semiconductor company called AGEIA. Games wishing {{to take advantage of}} the PhysX PPU must use AGEIA's PhysX SDK, (formerly known as the NovodeX SDK).|$|E
+5000|$|John Draper: A legendary {{figure in}} the {{computer}} programming world. He wrote EasyWriter, the <b>first</b> word <b>processor.</b>|$|R
+5000|$|POWER4 - The first dual core {{microprocessor}} and the <b>first</b> PowerPC <b>processor</b> {{to reach}} beyond 1 GHz.|$|R
+50|$|Seymour Cray is {{credited}} {{for developing the}} <b>first</b> NTDS <b>processor,</b> the AN/USQ-17. However, this design did not go into production.|$|R

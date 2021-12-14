@@ -1,0 +1,3 @@
+1|0|Public
+40|$|Abstract. This research-in-progress paper {{presents}} {{a new approach}} called Link Proximity Analysis (LPA) for identifying related web pages based on link analysis. In contrast to current techniques, which ignore <b>intra-page</b> <b>link</b> analysis, the one put forth here examines the relative positioning of links to each other within websites. The approach uses {{the fact that a}} clear correlation between the proximity of links to each other and the subject-relatedness of the linked websites can be observed on nearly every web page. By statistically analyzing this relationship and measuring the amount of sentences, paragraphs, etc. between two links, related websites can be automatically, identified as a first study has proven...|$|E
+

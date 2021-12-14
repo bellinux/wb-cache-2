@@ -1,0 +1,3 @@
+1|0|Public
+50|$|There {{are some}} {{complications}} with the playback of binaural recordings through headphones. The sound that {{is picked up}} by a microphone placed in or at the entrance of the ear channel has a frequency spectrum that {{is very different from the}} one that would be {{picked up by a}} <b>free-standing</b> <b>microphone.</b> The diffuse-field head-transfer function (HRTF), that is, the frequency response at the ear drum averaged for sounds coming from all possible directions, is quite grotesque, with peaks and dips exceeding 10 dB. Frequencies from around 2 kHz to 5 kHz in particular are strongly amplified as compared to free field presentation.|$|E
+

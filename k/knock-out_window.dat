@@ -1,0 +1,3 @@
+1|0|Public
+40|$|This paper studies {{derivative}} {{contracts with}} payoffs {{contingent on the}} amount of time the underlying asset price spends outside of a pre-specified price range (occupation time). Proportional and simple double-barrier step options are gradual knockout options with the principal amortized based on the occupa-tion time outside of the range. Delayed double-barrier options are extin-guished when the occupation time outside of the range exceeds a prespecified <b>knock-out</b> <b>window</b> (delayed knockout). These contract designs are proposed as alternatives to the currently traded double-barrier options. They alleviate discrete “barrier event ” risk and are easier to hedge. ...|$|E
+

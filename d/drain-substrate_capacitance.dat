@@ -1,0 +1,3 @@
+1|0|Public
+40|$|In this study, a 600 V LDMOSFET using a silicon-on-silicon carbide (Si/SiC) {{substrate}} is presented. An SOI counterpart {{is established}} with a linear-doped drift region {{the same as}} that of the Si/SiC transistor. Simulation results show that they perform similar off-state behaviours, both with a significant tunneling leakage emerging above 450 V at 300 K. In the on-state, the proposed structure has advantages over the SOI, namely lower resistance, higher saturation current and improved self-heating effect. Turn-off performance is also enhanced owing to substantial reduction of the <b>drain-substrate</b> <b>capacitance.</b> These are realised by an “IOS” (Insulator on Silicon) setup embedded in the Si/SiC structure. ...|$|E
+

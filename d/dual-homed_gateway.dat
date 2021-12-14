@@ -1,0 +1,4 @@
+2|0|Public
+50|$|A dual-homed host (or <b>dual-homed</b> <b>gateway)</b> is {{a system}} fitted with two network {{interfaces}} (NICs) that sits between an untrusted network (like the Internet) and trusted network (such as a corporate network) to provide secure access. Dual-homed is a general term for proxies, gateways, firewalls, or any server that provides secured applications or services directly to an untrusted network.|$|E
+50|$|In network security, a {{screened}} subnet firewall is {{a variation}} of the <b>dual-homed</b> <b>gateway</b> and screened host firewall. It can be used to separate components of the firewall onto separate systems, thereby achieving greater throughput and flexibility, although at some cost to simplicity. As each component system of the screened subnet firewall needs to implement only a specific task, each system is less complex to configure.|$|E
+

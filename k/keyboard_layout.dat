@@ -1,0 +1,37 @@
+719|321|Public
+5|$|Below is the {{standard}} Georgian-language <b>keyboard</b> <b>layout,</b> the traditional layout of manual typewriters.|$|E
+25|$|The {{user can}} use the Microsoft <b>Keyboard</b> <b>Layout</b> Creator to produce a custom <b>keyboard</b> <b>layout,</b> or can {{download}} a layout produced by another party.|$|E
+25|$|In GNOME, {{there exists}} a {{separate}} <b>keyboard</b> <b>layout</b> for Esperanto, replacing unused characters in Esperanto with the non-ASCII characters. A separate <b>keyboard</b> <b>layout</b> for Esperanto is available in KDE, too.|$|E
+50|$|Regardless of the {{physical}} <b>keyboard's</b> <b>layout,</b> {{it is possible to}} install Unicode-based Hindi <b>keyboard</b> <b>layouts</b> on most modern operating systems.|$|R
+5000|$|Portuguese and Spanish <b>keyboard</b> <b>layouts</b> are {{the only}} ones on which the {{characters}} are directly accessible through a dedicated key: [...] for “º” and , for “ª”. On other <b>keyboard</b> <b>layouts</b> these characters are accessible only through a set of keystrokes.|$|R
+25|$|It is {{possible}} to install multiple <b>keyboard</b> <b>layouts</b> within an operating system and switch between them, either through features implemented within the OS, or through an external application. Microsoft Windows, Linux, and Mac provide support to add <b>keyboard</b> <b>layouts</b> and choose from them.|$|R
+25|$|Maltron {{also has}} a single-handed <b>keyboard</b> <b>layout.</b>|$|E
+25|$|The <b>keyboard</b> <b>layout</b> {{used for}} Hawaiian is QWERTY.|$|E
+25|$|With the {{exception}} of intonation, there are two extended Latin vowels in pinyin. They are ü (U-umlaut) and ê (E-circumflex). Given that the US <b>keyboard</b> <b>layout</b> {{is the most common}} <b>keyboard</b> <b>layout</b> in China, any pinyin method implementation would {{need to be able to}} facilitate the input of those vowels on US keyboard.|$|E
+50|$|<b>Keyboard</b> <b>layouts</b> used to type Albanian language.|$|R
+5000|$|ISO/IEC 9995-1:2009 General {{principles}} governing <b>keyboard</b> <b>layouts</b> ...|$|R
+5000|$|... #Subtitle level 2: Non-QWERTY-based Latin-script <b>keyboard</b> <b>layouts</b> ...|$|R
+25|$|The Sinhala <b>keyboard</b> <b>layout</b> {{is based}} on the Wijesekara {{typewriter}} for Sinhala script.|$|E
+25|$|The German {{typewriter}} <b>keyboard</b> <b>layout</b> {{was defined}} in DIN 2112, first issued in 1928.|$|E
+25|$|The Icelandic <b>keyboard</b> <b>layout</b> has a {{separate}} key for Æ (and Ð, Þ and Ö).|$|E
+5000|$|CP 1252.NLS, CP 437.NLS, UNICODE.NLS, LOCALE.NLS - <b>keyboard</b> <b>layouts</b> ...|$|R
+5000|$|... #Subtitle level 2: <b>Keyboard</b> <b>layouts</b> for non-Latin {{alphabetic}} scripts ...|$|R
+5000|$|Virtual {{keyboards}} with touchscreen <b>keyboard</b> <b>layouts</b> or sensing areas ...|$|R
+25|$|This is the Georgian {{standard}} <b>keyboard</b> <b>layout.</b> The standard Windows keyboard {{is essentially}} that of manual typewriters.|$|E
+25|$|The Chinese National Standard on Tibetan <b>Keyboard</b> <b>Layout</b> standardises a layout for the Tibetan {{language}} in China.|$|E
+25|$|Keyboards {{which have}} a Zawgyi <b>keyboard</b> <b>layout</b> printed on them are the most {{commonly}} available for purchase domestically.|$|E
+5000|$|Part 4: (1998) Keyboard requirementsThis part {{specifies}} the ergonomics design {{characteristics of}} an alphanumeric keyboard {{which may be}} used comfortably, safely and efficiently to perform office tasks. <b>Keyboard</b> <b>layouts</b> are dealt with separately {{in various parts of}} ISO/IEC 9995: 1994 Information Processing - <b>Keyboard</b> <b>Layouts</b> for Text and Office Systems ...|$|R
+5000|$|Microsoft Windows - some <b>keyboard</b> <b>layouts</b> feature {{separate}} keys for ...|$|R
+50|$|There are two QWERTY-based <b>keyboard</b> <b>layouts</b> {{used for}} the Portuguese language.|$|R
+25|$|A rafe can be input by {{inserting}} the corresponding Unicode character, either explicitly or via a customized <b>keyboard</b> <b>layout.</b>|$|E
+25|$|Some other layouts {{have also}} been {{designed}} specifically for use with mobile devices. The FITALY layout is optimised for use with a stylus by placing {{the most commonly used}} letters closest to the centre and thus minimising the distance travelled when entering words. A similar concept was followed to research and develop the MessagEase <b>keyboard</b> <b>layout</b> for fast text entry with stylus or finger. The ATOMIK layout, designed for stylus use, was developed by IBM using the Metropolis Algorithm to mathematically minimize the movement necessary to spell words in English. The ATOMIK <b>keyboard</b> <b>layout</b> is an alternative to QWERTY in ShapeWriter's WritingPad software. ASETNIOP is a <b>keyboard</b> <b>layout</b> designed for tablet computers that uses 10 input points, eight of them on the home row.|$|E
+25|$|The {{standard}} Hungarian <b>keyboard</b> <b>layout</b> is German-based (QWERTZ). This layout allows {{direct access}} to every character in the Hungarian alphabet.|$|E
+5000|$|... "¿" [...] is {{available}} in all <b>keyboard</b> <b>layouts</b> for Spanish-speaking countries.|$|R
+40|$|Previous {{editions of}} Word Ways have {{identified}} the longest words and names which can be typed {{on each of the}} individual rows of a standard QWERTY keyboard. But how do things change when using other <b>keyboard</b> <b>layouts?</b> Here I 2 ̆ 7 ll examine two alternative <b>keyboard</b> <b>layouts</b> - the AZERTY and QWERTZ keyboards...|$|R
+5000|$|The Georgian {{keyboard}} (ქართული კლავიატურა [...] ) {{includes several}} <b>keyboard</b> <b>layouts</b> for Georgian script.|$|R
+25|$|The Bhutanese Standard for a Dzongkha <b>keyboard</b> <b>layout</b> standardizes {{the layout}} for typing Dzongkha, and other {{languages}} using the Tibetan script, in Bhutan. This standard layout was formulated by the Dzongkha Development Commission and Department of Information Technology in Bhutan. The Dzongkha <b>keyboard</b> <b>layout</b> {{is very easy}} to learn as the key sequence essentially follows the order of letters in the Dzongkha and Tibetan alphabet. The layout has been available in Linux since 2004.|$|E
+25|$|The United States <b>keyboard</b> <b>layout</b> {{is used as}} default in the {{currently}} most popular operating systems: MS Windows, Apple Mac OS X and some Linux distributions.|$|E
+25|$|The {{first version}} of Microsoft Windows to support the Tibetan <b>keyboard</b> <b>layout</b> is MS Windows Vista. The layout has been {{available}} in Linux since September 2007.|$|E
+5000|$|Enhanced <b>keyboard</b> <b>layouts</b> in {{the editor}} and {{a huge number of}} macro key sets.|$|R
+50|$|<b>Keyboard</b> <b>layouts</b> with a {{rectangular}} Enter key {{are available in}} American English and Korean.|$|R
+5000|$|Optically {{projected}} <b>keyboard</b> <b>layouts</b> {{or similar}} arrangements of [...] "keys" [...] or sensing areas ...|$|R

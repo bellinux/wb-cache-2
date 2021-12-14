@@ -1,0 +1,4 @@
+1|1|Public
+50|$|When the PBX {{is capable}} of direct inward dialing, the {{extension}} number should be written directly after the phone number, without using any distinct symbols. If {{there is a need}} to indicate <b>in-dialing</b> capability of the telephone number, a number of dots (....) corresponding to the length of the extension number can be added at the end.|$|E
+50|$|August 2012: Head Office PABX {{extended}} with 100 dedicated VoIP lines enabling {{emergency services}} direct <b>in-dialling</b> to VKS-737 operators.|$|R
+

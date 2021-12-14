@@ -1,0 +1,3 @@
+1|0|Public
+5000|$|This {{function}} template can be instantiated {{with any}} copy-constructible type {{for which the}} expression [...] is valid. For user-defined types, this implies that the <b>greater-than</b> <b>operator</b> (...) must be overloaded in the type.|$|E
+

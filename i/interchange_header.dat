@@ -1,0 +1,3 @@
+1|0|Public
+5000|$|Service String Advice UNA Optional +----- <b>Interchange</b> <b>Header</b> UNB Mandatory | +--- Functional Group Header UNG Conditional | | +- Message Header UNH Mandatory | | | User Data Segments As {{required}} | | +- Message Trailer UNT Mandatory | +--- Functional Group Trailer UNE Conditional +----- Interchange Trailer UNZ Mandatory ...|$|E
+

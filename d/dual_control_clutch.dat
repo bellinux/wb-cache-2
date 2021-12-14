@@ -1,0 +1,37 @@
+0|1921|Public
+50|$|At {{the turn}} of the century, Volkswagen {{introduced}} the Direct-Shift Gearbox (DSG), a type of dual clutch transmission. It is an automated semi-automatic transmission, drivable like a conventional automatic transmission. Based on the gearbox found in the Group B S1, the system includes <b>dual</b> electrohydraulically <b>controlled</b> <b>clutches</b> instead of a torque converter. This is implemented in some VW Golfs, Audi A3, Audi A4 and TT models where DSG is called S-tronic.|$|R
+5000|$|... 3000, 7000 and 8000 Series {{machines}} have {{a driver}} <b>controlled</b> <b>clutch</b> pack engaged locking differential.|$|R
+50|$|The manual {{transmission}} model has center differential. However, the automatic ones has an electronically <b>controlled</b> <b>clutch</b> which provides {{the power to}} the back wheels.|$|R
+40|$|AbstractThe <b>dual</b> <b>control</b> law for an {{integrator}} {{with constant}} but unknown gain is computed. Numerical {{problems associated with}} the solution of the Bellman equation are reviewed. Properties of the <b>dual</b> <b>control</b> law are discussed. A representation which makes it easy to compare <b>dual</b> <b>control</b> with certainty equivalence and cautious control is also introduced...|$|R
+5000|$|The Edge {{includes}} full <b>dual</b> <b>controls</b> {{for flight}} training, including <b>dual</b> steering, <b>dual</b> <b>control</b> bar extenders and two throttles. Engines supplied include the twin cylinder, two-stroke air-cooled [...] Rotax 503 or the liquid-cooled [...] Rotax 582.|$|R
+50|$|<b>Dual</b> <b>control</b> version.|$|R
+50|$|With <b>dual</b> <b>controls.</b> Three built.|$|R
+50|$|Trainer {{version with}} <b>dual</b> <b>controls.</b>|$|R
+40|$|Autonomous agents {{engaged in}} a {{continuous}} interaction with an incompletely known environment face the problem of <b>dual</b> <b>control</b> [Fel'dbaum 1965]. Simply stated, actions are necessary not only for studying the environment, but also for making progress on the task. In other words, actions must bear a "dual" character: They must be investigators to some degree, but also directors to some degree. Because the number of variables involved in {{the solution of the}} <b>dual</b> <b>control</b> problem increases with the number of decision stages, the exact solution of the <b>dual</b> <b>control</b> problem is computationally intractable except for a few special cases. This paper provides an overview of <b>dual</b> <b>control</b> theory and proposes a heuristic approach towards obtaining a near-optimal <b>dual</b> <b>control</b> method that can be implemented. The proposed algorithm selects control actions taking into account the information contained in past observations as well as the possible information that future observations may reveal. In short, t [...] ...|$|R
+50|$|<b>Dual</b> <b>control</b> {{instructor}} version, 5 built.|$|R
+50|$|X-32UT Bekas: <b>Dual</b> <b>control</b> trainer version.|$|R
+40|$|Report {{discusses}} use of extremal <b>dual</b> <b>control</b> {{to prevent}} overtesting. In extremal <b>dual</b> <b>control,</b> electronic test-control subsystem automatically reduces excitation supplied to shaker subsystem to keep force applied by shaker below preset force limit {{and to keep}} acceleration of shaker below preset acceleration limit...|$|R
+5000|$|... #Subtitle level 2: Specifications (tandem <b>dual</b> <b>control,</b> landplane) ...|$|R
+40|$|Abstract. Imperfect {{information}} {{in the form of}} model uncertainty in the dynamic intertemporal choice problems makes the optimizing decision maker face difficult tradeoff between simultaneously controlling the policy target and estimating the impact of policy action, a situation known as <b>dual</b> <b>control.</b> Extant literature on Bayesian <b>dual</b> <b>control</b> i...|$|R
+40|$|A {{vibration}} retest of {{a spacecraft}} flight instrument, the Mars Observer Camera (MOC), was conducted using extremal <b>dual</b> <b>control</b> to automatically limit the shaker force and notch the shaker acceleration at resonances. This {{was the first}} application of extremal <b>dual</b> <b>control</b> with flight hardware at JPL. The retest was successful in that the environment was representative of flight plus some margin, the instrument survived without any structural or performance degradation, and the force limiting worked very well. The test set-up, force limiting procedure, and test results are described herein. It is concluded that <b>dual</b> <b>control</b> should be utilized {{when there is a}} concern about overtesting in hard-base-drive tests and the instrumentation for force measurement and control is available. Recommendations for improving the implementation of <b>dual</b> <b>control</b> are provided {{as a result of this}} first experience...|$|R
+25|$|Conversion trainer. <b>Dual</b> <b>controls</b> and throttles, various {{instruments}} duplicated.|$|R
+25|$|O-2B: <b>Dual</b> <b>control</b> {{version of}} O-2 - six built.|$|R
+500|$|Production series, <b>dual</b> <b>controls</b> and instruments, {{external}} tailplane bracing ...|$|R
+50|$|Conversion trainer. <b>Dual</b> <b>controls</b> and throttles, various {{instruments}} duplicated.|$|R
+50|$|B-2A: Redesignation of one B-2 {{fitted with}} <b>dual</b> <b>controls.</b>|$|R
+50|$|O-2B: <b>Dual</b> <b>control</b> {{version of}} O-2 - six built.|$|R
+50|$|UH-1A with <b>dual</b> <b>controls</b> and blind-flying instruments, 14 conversions.|$|R
+5000|$|Production series, <b>dual</b> <b>controls</b> and instruments, {{external}} tailplane bracing ...|$|R
+5|$|He 111 P-3: <b>Dual</b> <b>control</b> trainer {{fitted with}} DB601A-1 powerplants.|$|R
+25|$|TH-1A: UH-1A with <b>dual</b> <b>controls</b> and blind-flying instruments, 14 conversions.|$|R
+5000|$|Modified YR-5As with <b>dual</b> <b>controls,</b> five {{conversions}} later re-designated YH-5E ...|$|R
+5000|$|L-19As {{converted}} to <b>dual</b> <b>control</b> trainers, redesignated TO-1A in 1962 ...|$|R
+5000|$|... 8-zone (<b>dual</b> <b>control)</b> dimming {{system for}} house lights by Lutron.|$|R
+40|$|A {{reformulation}} of the <b>dual</b> <b>control</b> problem {{makes it}} possible to interpret and understand the nature of different approximations to <b>dual</b> <b>control,</b> in particular the Adaptive Predictive Controller (APC) and the Active Suboptimal Dual Controller (ASOD). The analysis makes the origin of the computational problems more clear, and suggests new alternatives for approximations...|$|R
+25|$|<b>Dual</b> <b>control</b> trainer. Ventral gondola, dive {{brakes and}} all {{armament}} removed.|$|R
+25|$|S.43 <b>Dual</b> <b>control,</b> used by RFC {{for flight}} {{training}} at Upavon.|$|R
+25|$|First trainer variant with <b>dual</b> <b>controls</b> and {{a crew of}} three.|$|R
+2500|$|... 65hp (48 kW) Rotax 582 liquid-cooled engine. [...] <b>Dual</b> <b>control</b> standard.|$|R
+50|$|First trainer variant with <b>dual</b> <b>controls</b> and {{a crew of}} three.|$|R
+50|$|<b>Dual</b> <b>control</b> trainer. Ventral gondola, dive {{brakes and}} all {{armament}} removed.|$|R
+50|$|He 111 P-3: <b>Dual</b> <b>control</b> trainer {{fitted with}} DB601 A-1 powerplants.|$|R

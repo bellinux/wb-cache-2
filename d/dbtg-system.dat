@@ -1,0 +1,3 @@
+1|0|Public
+40|$|VIDEBAS is a {{relational}} {{database management system}} in which a database consists of two parts, namely a “real-only” and an “update” part. The first part remains unmodified until the next reorganization and exploits redundancy to achieve fast access to data. A prototype of VIDEBAS has been built. In this paper a performance comparison between this relational system and a <b>DBTG-system</b> (UDS) is made. The used external memory {{and the number of}} page accesses to retrieve and update tuples is estimated. Although it is commonly assumed that in an operational environment relational systems are slower than network systems the opposite appears. On the other hand UDS needs less external memory...|$|E
+

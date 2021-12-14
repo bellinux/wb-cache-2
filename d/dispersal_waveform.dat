@@ -1,0 +1,3 @@
+1|0|Public
+50|$|A {{triangular}} 60 Hz energy <b>dispersal</b> <b>waveform</b> {{is added}} to the composite baseband signal (video plus audio and data subcarriers) before modulation. This limits the satellite downlink power spectral density in case the video signal is lost. Otherwise the satellite might transmit all of its power on a single frequency, interfering with terrestrial microwave links in the same frequency band.|$|E
+

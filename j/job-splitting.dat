@@ -1,0 +1,3 @@
+1|0|Public
+40|$|A type of {{production}} scheduling problem with sequencing considerations existing in several manufacturing facilities in chemical industry is formulated as a mixed integer programming problem and solved using a branch and bound search algorithm. The problem has two unusual sequencing aspects, namely, (1) a product to be sequenced can be split up amongst the reactors which, described in sequencing literature as <b>job-splitting,</b> is not usually allowed in machine sequencing problems and (2) the number of products to be sequenced on a given equipment {{as well as the}} product sequence need to be simultaneously determined. Some computational experience is reported. ...|$|E
+

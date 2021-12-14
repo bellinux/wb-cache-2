@@ -1,0 +1,5 @@
+1|2|Public
+5000|$|Validity (issuing <b>date</b> (<b>DD.MM.YY)</b> and {{expiration}} date (DD.MM.YYY)) ...|$|E
+5000|$|Field 4: Personenkennziffer (service number: birth <b>date</b> in <b>DDMMYY</b> format, dash, {{capitalized}} {{first letter}} of last name, dash, and five-digit number based on soldier's home military administrative district, {{number of persons}} with the mentioned last name initial and same birthday, and an error-checking number but without dashes), ex. 101281-S-455(-)6(-)8 ...|$|R
+5000|$|Historically, {{the number}} has been {{composed}} of the <b>date</b> of birth (<b>DDMMYY),</b> a three digit individual number, and two check digits. The individual number and the check digits are collectively known as the Personal Number.|$|R
+

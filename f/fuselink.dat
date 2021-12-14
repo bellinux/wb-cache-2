@@ -1,0 +1,3 @@
+1|0|Public
+40|$|Nowadays, the {{development}} of power semiconductors has made that fuses used for their protection have to be improved. The high working frequency of IGBT leads to a modification of fuse characteristics. For high frequencies, it may occur a bad working due to an unequal current distribution between two fuses in parallel, or even between fuse's elements. The result is that fuse operates at below rated current. This unexpected operation {{can be attributed to}} proximity effects which are consequences of electromagnetic laws between close conductors. To prevent such a failure, their current rating must be reduced as a function of frequency and distance between the <b>fuselink</b> and other conductors (e. g. the return conductor) ...|$|E
+

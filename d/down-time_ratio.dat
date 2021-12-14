@@ -1,0 +1,3 @@
+1|0|Public
+40|$|A {{method is}} {{proposed}} to maintain cost-effective spares stockpiles {{for an entire}} DSN station or complex as new modules or subsystems are continuously added. Levels of spares are calculated individually for each new module type so as to conform to an established standard for the entire spares pool. Finding the spares levels is computationally simplified {{and in many cases}} is reduced to consulting a <b>Down-Time</b> <b>Ratio</b> Chart. A simple modification permits taking into account a criticality factor...|$|E
+

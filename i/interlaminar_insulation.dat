@@ -1,0 +1,3 @@
+1|0|Public
+40|$|In this paper, {{we propose}} a {{homogenization}} technique {{to model the}} axially laminated rotor of synchronous reluctance machines. Thus, the computational effort can be significantly reduced by replacing the laminated parts of the rotor by some equivalent anisotropic media. The proposed method is validated in terms of flux density and electromagnetic torque. Some small discrepancies can be noticed due to the air-gap fluctuations caused by the steel sheets and the <b>interlaminar</b> <b>insulation</b> sheets of the rotor. With the test machine, the homogenization method reduces {{by the number of}} elements to one fourth and the computation time to one third. Peer reviewe...|$|E
+

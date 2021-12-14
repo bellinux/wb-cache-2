@@ -1,0 +1,4 @@
+2|0|Public
+5000|$|Spanish (Latin America): Jerigonza [...] - [...] "@p*" [...] (<b>Hola</b> <b>mundo</b> → Hopolapa mupundopo) efe {{language}} [...] - [...] "@f" [...] (<b>Hola</b> <b>mundo</b> → Hofolafa mufundofo) or some variations like [...] "@g@d": (<b>Hola</b> <b>mundo</b> → Hogodolagada mugudundogodo) ...|$|E
+5000|$|Adding If-Then-Else logic: /********************************************************************/ /* MULTI-LINGUAL [...] "HELLO WORLD" [...] PROGRAM. */ /* */ /* THIS CLIST, STORED AS USERID.TSO.CLIST(TEST), CAN BE INVOKED */ /* FROM THE ISPF COMMAND LINE AS SHOWN IN THE FOLLOWING EXAMPLE: */ /* */ /* COMMAND ===> TSO TEST SPANISH */ /* */ /********************************************************************/ PROC 1 LANGUAGE IF &LANGUAGE = SPANISH THEN + WRITE <b>HOLA,</b> <b>MUNDO</b> ELSE IF &LANGUAGE = FRENCH THEN + WRITE BONJOUR, MONDE ELSE + WRITE HELLO, WORLD EXIT ...|$|E
+

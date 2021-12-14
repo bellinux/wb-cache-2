@@ -1,0 +1,4 @@
+1|1|Public
+5000|$|Mode {{partition}} noise: In {{an optical}} communication link, is phase jitter {{of the signal}} caused by the combined effects of mode hopping in the optical source and <b>intramodal</b> <b>distortion</b> in the fiber.|$|E
+5000|$|The {{equilibrium}} mode {{power distribution}} of light travelling in an optical waveguide or fiber, is {{the distribution of}} light {{that is no longer}} changing with fibre length or with input modal excitation. This phenomenon requires both mode filtering and mode mixing to occur in the fibre to produce a state that is independent of the mode power distribution launched by the light source. At propagation distances exceeding the equilibrium length, <b>intramodal</b> pulse <b>distortion</b> increases (bandwidth decreases) as the square root of length.|$|R
+

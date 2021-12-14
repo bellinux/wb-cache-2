@@ -1,0 +1,3 @@
+1|0|Public
+5000|$|Low-capacity packet (P00) - 96 bits at the {{beginning}} of the time slot ("short slot"). This packet only contains 64-bit header (A-field) used as a <b>dummy</b> <b>bearer</b> to broadcast base station identification when idle.|$|E
+

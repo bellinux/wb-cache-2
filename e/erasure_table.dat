@@ -1,0 +1,4 @@
+1|1|Public
+3000|$|... for CASE 1 with no <b>erasure.</b> <b>Table</b> 8 {{shows an}} {{increasing}} in complexity {{in terms of}} arithmetic operations (− 38.3 %), meanwhile positive ratios are seen for read/write access memory. However, {{it should be noted}} that the number of required memory access are much less than the arithmetic operations. Thus, those latter are considered as the primary criteria for choosing between the two modes.|$|E
+3000|$|Compared {{with the}} {{standard}} DVB-H link layer, our [...] "WBC over DVB-H" [...] link layer uses an additional 8 B smart correct segment index table (CSIT), which is inserted {{at the end of}} the last WBC segment's padding area to help the decoder operate in an efficient way. CSIT includes the size of the <b>erasure</b> info <b>table</b> (EIT), used to store the decoding information, the number of WBC segments in one MPE-FEC frame, the advertisements delivery protocol's (ADP) parameters, and so forth.|$|R
+

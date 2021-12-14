@@ -1,0 +1,37 @@
+0|5015|Public
+5000|$|...+--------+---------+-----| |------ 1. Waypoint 1 | | [...] Waypoint {{location}} |--------+----+---+------| [...] <b>Latitude</b> <b>Longitude</b> Alt | Route Fuel | [...] ---+--------+---------+-----| Winds Crs TAS Time |------ 2. Waypoint 2 | Temp Hdg GS Dist | [...] Waypoint location |--------+----+---+------| [...] <b>Latitude</b> <b>Longitude</b> Alt | | [...] ---+--------+---------+-----| |------ ...|$|R
+5000|$|Cartographical {{surveyors}} made maps, involving finding <b>latitudes,</b> <b>longitudes</b> and elevations.|$|R
+40|$|This {{research}} involved collecting GPS coordinates {{based on}} <b>latitude,</b> <b>longitude,</b> and elevation, to create images based on three quantitative categories. These images can resemble three-dimensional plots that allow further analysis. Using GPS devices, we collected {{the data in}} a specified area. With these points, we analyzed the comparison between <b>latitude,</b> <b>longitude,</b> and altitude...|$|R
+50|$|The <b>latitude</b> <b>longitude</b> {{coordinates}} for Christopher Nagar is 8°11'14"N and 77°23'39"E.|$|R
+5000|$|Calculation of the {{ellipsoidal}} <b>latitude,</b> <b>longitude</b> {{and height}} (W, L, H) ...|$|R
+5000|$|Coordinate values (<b>latitude,</b> <b>longitude,</b> and altitude) {{should be}} delimited by spaces.|$|R
+50|$|Some of the hangars {{still remain}} intact at <b>Latitude,</b> <b>Longitude</b> 56.013348N, 3.707562W.|$|R
+5000|$|Location of the drop, {{indicated}} by the <b>latitude,</b> <b>longitude,</b> and Marsden square.|$|R
+5000|$|... #Subtitle level 4: From <b>latitude,</b> <b>longitude</b> (φ, λ) to UTM {{coordinates}} (E, N) ...|$|R
+50|$|Location - The <b>latitude,</b> <b>longitude,</b> and {{elevation}} of where data is being sent from.|$|R
+5000|$|... #Subtitle level 4: From UTM {{coordinates}} (E, N, Zone, Hemi) to <b>latitude,</b> <b>longitude</b> (φ, λ) ...|$|R
+50|$|CLaMS {{operates}} on arbitrarily resolved horizontal grids. The space coordinates are <b>latitude,</b> <b>longitude</b> and potential temperature.|$|R
+5000|$|Geodetic {{coordinates}} (<b>latitude</b> , <b>longitude</b> , height [...] ) can {{be converted}} into ECEF coordinates using the following formulae: ...|$|R
+5000|$|Robotics: self-navigating, {{autonomous}} robots using a GPS sensors, which calculate <b>latitude,</b> <b>longitude,</b> time, speed, and heading.|$|R
+50|$|Current {{location}} - current <b>latitude,</b> <b>longitude,</b> altitude, direction, {{and speed}} of the phone, and methods to convert it to text.|$|R
+30|$|The {{position}} of the aircraft in terms of <b>latitude,</b> <b>longitude</b> and altitude can be thus calculated using Eqs.  9, 10 and 11.|$|R
+5000|$|The timezone in Mukuuri is Africa/NairobiSunrise at 06:39 and Sunset at 18:46. <b>Latitude.</b> -0.4000°, <b>Longitude.</b> 37.5500° For Kirimiri - <b>Latitude.</b> -0.4167°, <b>Longitude.</b> 37.5500° ...|$|R
+3000|$|White nodes {{show the}} {{location}} of the learners on the lowest layer. These nodes include <b>latitude,</b> <b>longitude,</b> building names, and other location attributes [...]...|$|R
+50|$|A visual {{positioning}} system {{can determine the}} location of a camera-enabled mobile device by decoding location coordinates from visual markers. In such a system, markers are placed at specific locations throughout a venue, each marker encoding that location's coordinates: <b>latitude,</b> <b>longitude</b> and height off the floor. Measuring the visual angle from the device to the marker enables the device to estimate its own location coordinates in reference to the marker. Coordinates include <b>latitude,</b> <b>longitude,</b> level and altitude off the floor.|$|R
+50|$|ISO 6709 Standard {{representation}} of geographic point location by coordinates {{is the international}} standard for {{representation of}} <b>latitude,</b> <b>longitude</b> and altitude for geographic point locations.|$|R
+50|$|Junaio was {{the first}} {{augmented}} reality browser which had overcome the accuracy limitations of GPS navigation through LLA Markers (<b>latitude,</b> <b>longitude,</b> altitude marker, patent pending).|$|R
+50|$|Alma College {{was located}} west of Alma on Alma College Road, above the Lexington Reservoir, at <b>latitude</b> 371056N, <b>longitude</b> 122000W; decimal degrees: <b>latitude</b> 37.18222, <b>longitude</b> -122.00111.|$|R
+5000|$|In {{geodetic}} coordinates the Earth's surface is approximated by an ellipsoid and locations {{near the surface}} are {{described in terms of}} <b>latitude</b> (...) , <b>longitude</b> (...) and height (...) [...]|$|R
+5000|$|... 2001: Cotton Skins, <b>Installation,</b> <b>Latitude</b> 53, Edmonton, Canada; ...|$|R
+30|$|The {{position}} components including <b>latitude,</b> <b>longitude</b> (λ), and elevation can be computed {{according to}} (5) {{taking into consideration}} that RM represents meridian radius of the Earth’s ellipsoid curvature.|$|R
+50|$|The {{settlement}} was located at <b>latitude</b> 370718N, <b>longitude</b> 1215547W; decimal degrees: <b>latitude</b> 37.12167, <b>longitude</b> -121.92972. The site {{is at the}} junction of Summit Road and Loma Prieta Avenue.|$|R
+5000|$|Informally, specifying a {{geographic}} location usually means giving the location's <b>latitude</b> and <b>longitude.</b> The numerical values for <b>latitude</b> and <b>longitude</b> {{can occur in}} a number of different formats: ...|$|R
+5000|$|THE U.S. COAST AND GEODETIC SURVEY DETERMINED THE <b>LATITUDE,</b> <b>LONGITUDE</b> AND ELEVATION OF THE ZERO MILESTONE AUTHORIZED BY ACT OF CONGRESS JUNE 5, 1920 DEDICATED JUNE 4, 1923 ...|$|R
+5000|$|Mount Nelson {{is located}} at 85 degrees 47 S Latitude, 153 degrees 48 W <b>Longitude.</b> (<b>Latitude</b> 854700S <b>Longitude</b> 1534800W) ...|$|R
+50|$|It {{contains}} WGS84 <b>Latitude,</b> <b>Longitude</b> and Altitude (ellipsoidal height) information {{together with}} host/subnet physical size and location accuracy. This {{information can be}} queried by other computers connected to the Internet.|$|R
+25|$|In addition, the Earth's {{magnetic}} field acts to deflect cosmic rays from its surface, {{giving rise to}} the observation that the flux is apparently dependent on <b>latitude,</b> <b>longitude,</b> and azimuth angle.|$|R
+50|$|This Mars {{climate model}} is a complex 3-dimensional (height, <b>latitude,</b> <b>longitude)</b> model, which {{represents}} the processes of atmospheric heating by gases and ground-air heat transfer, as well as large-scale atmospheric motions.|$|R
+50|$|Clems, California is a {{ghost town}} in Santa Cruz County with an {{elevation}} of 790 feet (241 meters). It is located a <b>latitude</b> 37055N, <b>longitude</b> 1215947W; decimal degrees: <b>latitude</b> 37.09806, <b>longitude</b> -121.99639.|$|R
+5000|$|A string {{expression}} of a point consists of <b>latitude,</b> <b>longitude,</b> height or depth, CRS identifier, and trailing solidus (...) without any delimiting character. When height or depth is used, there must be CRS identifier.|$|R
+50|$|Chapter 8 : Methods for the {{determination}} of the <b>latitude</b> and <b>longitude</b> for various places on the earth; the R-sine and R-cosine of the <b>latitude</b> and <b>longitude,</b> their arc, chord and variety of constants.|$|R
+30|$|Then, {{the data}} has been {{collected}} using the latest gadget of Samsung tablet 4 equipped with GPRS reading. Every data collected has GPRS readings of <b>latitude,</b> <b>longitude,</b> and altitudes with accuracy {{of less than}} 15.|$|R

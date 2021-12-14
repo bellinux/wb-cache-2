@@ -1,0 +1,37 @@
+162|6003|Public
+25|$|Philippine {{passports}} {{have different}} styles of <b>data</b> <b>pages.</b> Old brown passports have both a data and physical description page, with the picture located on the description page rather than the data page; these are separated by the passport note. Green passports issued before 2004 have the data page on the inner cover followed by the passport note page. Passports issued after 2004 have the passport note and <b>data</b> <b>pages</b> reversed, with the passport note on the inner cover page.|$|E
+25|$|The Btrieve {{file format}} {{consists}} entirely of pages, {{which are the}} data that move between memory and storage when the engine performs an I/O operation. Versions prior to 6.0 merely used <b>data</b> <b>pages,</b> index pages and a file control record (FCR). The file had an index for searching that linked to physical pages. Beginning with version 6.0 logical pages were used. Logical are mapped to physical pages (pages at a fixed location in the file) on the disk by page allocation tables (PATs). The FCR is a record that contains important information about Btrieve files, such {{as the number of}} pages in current use. To avoid database corruption, Btrieve uses two methods of updating records: pre-image paging in Btrieve versions before 6.0, and shadow paging in subsequent versions. It was primarily the change-over from pre-image paging to shadow-paging, which necessitated radical file format changes, that caused compatibility issues between version 6 and previous versions.|$|E
+500|$|... : 3 photos, 6 {{measured}} drawings, and 6 <b>data</b> <b>pages,</b> at Historic American Buildings Survey ...|$|E
+5000|$|Each {{passport}} has a <b>data</b> <b>page</b> and {{a signature}} <b>page.</b> A <b>data</b> <b>page</b> has a visual zone which contains {{photograph of the}} passport holder, data about the passport, and data about the passport owner: ...|$|R
+5000|$|Each {{passport}} has a <b>data</b> <b>page.</b> A <b>data</b> <b>page</b> has {{a visual}} zone and a machine-readable zone. The visual zone has a digitized {{photograph of the}} passport holder, data about the passport, and data about the passport holder: ...|$|R
+5000|$|From 2009, each {{biometric}} passport has a <b>data</b> <b>page</b> and a residence <b>page.</b> A <b>data</b> <b>page</b> has a visual zone and a machine-readable zone. The visual zone has a digitised {{photograph of the}} passport holder, data about the passport, and data about the passport holder: ...|$|R
+2500|$|... : 4 {{measured}} {{drawings and}} 7 <b>data</b> <b>pages</b> at Historic American Buildings Survey ...|$|E
+2500|$|... : 1 photo, 2 <b>data</b> <b>pages,</b> and 1 photo caption page at Historic American Buildings Survey ...|$|E
+2500|$|... : 11 photos, 6 <b>data</b> <b>pages,</b> and 4 photo caption pages at Historic American Buildings Survey ...|$|E
+50|$|This is a <b>data</b> <b>page</b> for dichlorodifluoromethane.|$|R
+5|$|For more data, see Noble gas (<b>data</b> <b>page).</b>|$|R
+50|$|This is a {{supplementary}} <b>data</b> <b>page</b> for trichlorofluoromethane.|$|R
+2500|$|... with 16 drawings, 18 photographs, 2 photo caption {{page and}} 35 <b>data</b> <b>pages</b> at Historic American Engineering Record ...|$|E
+2500|$|... : 42 photos, 3 color transparencies, 7 <b>data</b> <b>pages,</b> and 5 photo caption pages at Historic American Buildings Survey ...|$|E
+2500|$|... : 71 photos, 7 {{measured}} drawings, 37 <b>data</b> <b>pages,</b> and 4 photo caption pages at Historic American Buildings Survey ...|$|E
+5000|$|... #Article: Electrical resistivities of the {{elements}} (<b>data</b> <b>page)</b> ...|$|R
+5000|$|... #Article: Electron {{configurations}} {{of the elements}} (<b>data</b> <b>page)</b> ...|$|R
+5000|$|... #Article: Crystal {{structure}} of boron-rich metal borides (<b>data</b> <b>page)</b> ...|$|R
+2500|$|... 1537 Thirty-fifth Street Northwest, Washington, District of Columbia, DC: 12 photos, 14 <b>data</b> <b>pages</b> and {{supplemental}} material, at Historic American Buildings Survey.|$|E
+2500|$|... : 75 photos, 10 color transparencies, 22 {{measured}} drawings, 6 <b>data</b> <b>pages,</b> and 6 photo caption pages at Historic American Buildings Survey ...|$|E
+5000|$|... {{extensive}} biography in Historic American Buildings Survey <b>data</b> <b>pages</b> for Gianella Bridge, Glenn, CA ...|$|E
+5000|$|... #Article: Thermal {{expansion}} {{coefficients of}} the elements (<b>data</b> <b>page)</b> ...|$|R
+25|$|The Federal Reserve {{records and}} publishes {{large amounts of}} data. A few {{websites}} where data is published are at the Board of Governors Economic <b>Data</b> and Research <b>page,</b> the Board of Governors statistical releases and historical <b>data</b> <b>page,</b> and at the St. Louis Fed's FRED (Federal Reserve Economic <b>Data)</b> <b>page.</b> The Federal Open Market Committee (FOMC) examines many economic indicators prior to determining monetary policy.|$|R
+5|$|Noble gas (<b>data</b> <b>page),</b> for {{extended}} tables of physical properties.|$|R
+5000|$|Foreign {{passport}} {{with any}} Sri Lankan passport {{if there is}} (with photocopy of Bio <b>data</b> <b>pages)</b> ...|$|E
+50|$|Philippine {{passports}} {{have different}} styles of <b>data</b> <b>pages.</b> Old brown passports have both a data and physical description page, with the picture located on the description page rather than the data page; these are separated by the passport note. Green passports issued before 2004 have the data page on the inner cover followed by the passport note page. Passports issued after 2004 have the passport note and <b>data</b> <b>pages</b> reversed, with the passport note on the inner cover page.|$|E
+5000|$|... #Caption: The ROC {{passport}} of {{a national}} without household registration {{does not have an}} identification card number listed on its <b>data</b> <b>pages</b> in the empty spaces labelled (1).|$|E
+25|$|Each {{passport}} has a <b>data</b> <b>page</b> and {{a signature}} page.|$|R
+50|$|Noble gas (<b>data</b> <b>page),</b> for {{extended}} tables of physical properties.|$|R
+50|$|The <b>data</b> <b>page</b> {{is printed}} in Romanian, English and French languages.|$|R
+5000|$|Put differently, Linked <b>Data</b> <b>pages</b> reveal {{explicit}} {{properties of}} [...] "things" [...] while basic web pages are loosely [...] "about anything", requiring human interpretation and reasoning {{in order to}} attain clarity.|$|E
+50|$|After {{completing}} initialization, most programs {{operate on}} {{a small number of}} code and <b>data</b> <b>pages</b> compared to the total memory the program requires. The pages most frequently accessed are called the working set.|$|E
+50|$|The {{bridge was}} {{extensively}} documented in 1982 for the Library of Congress Historic American Engineering Record. The survey consists of 81 black-and-white photos and 45 <b>data</b> <b>pages</b> detailing construction {{and history of}} the bridge.|$|E
+50|$|The lower {{area of the}} <b>data</b> <b>page</b> {{contains}} the Machine-readable zone.|$|R
+5000|$|A copy of student's {{passport}} biographical <b>data</b> <b>page</b> and visa page ...|$|R
+5000|$|... #Caption: Signature <b>page</b> and <b>data</b> <b>page</b> of a {{biometric}} passport (2007) ...|$|R

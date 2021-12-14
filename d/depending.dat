@@ -1,0 +1,37 @@
+10000|10000|Public
+5|$|Ren {{will either}} date or not date Nona <b>depending</b> on Alex's actions.|$|E
+5|$|Viruses cause {{different}} diseases <b>depending</b> on {{the types}} of cell that they infect.|$|E
+5|$|Airports can be towered or non-towered, <b>depending</b> on {{air traffic}} density and {{available}} funds. Because of high capacity and busy airspace, many international airports have {{air traffic control}} located on site.|$|E
+5000|$|... #Caption: [...] An {{example of}} a {{graphical}} model. Each arrow indicates a dependency. In this example: D <b>depends</b> on A, D <b>depends</b> on B, D <b>depends</b> on C, C <b>depends</b> on B, and C <b>depends</b> on D.|$|R
+5000|$|... #Caption: An {{example of}} a Markov random field. Each edge {{represents}} dependency. In this example: A <b>depends</b> on B and D. B <b>depends</b> on A and D. D <b>depends</b> on A, B, and E. E <b>depends</b> on D and C. C <b>depends</b> on E.|$|R
+50|$|Majority {{of people}} <b>depend</b> upon paddy farming. Some of them <b>depend</b> on {{vegetable}} farming, whereas the rest <b>depend</b> on weaving sari.|$|R
+5|$|All Greek {{cities of}} Asia were to 'live {{by their own}} laws' or 'be autonomous' (<b>depending</b> on translation).|$|E
+5|$|All {{applicants}} {{will have}} to attend a mandatory one-day training session and selection process. Training sessions will be held <b>depending</b> on demand, and the dates will be publicised.|$|E
+5|$|All {{other things}} being equal {{and in the absence of}} any {{explicit}} adverbials, the indicative mood will be interpreted as complete or incomplete <b>depending</b> on the verbal aktionsart.|$|E
+3000|$|... select {{function}} {{to choose the}} correct component version, thus maintaining the system consistency. In Fig.  2, for instance, Receiver <b>depends</b> on Sender, and Post-Processor <b>depends</b> on Processor, which in turn <b>depends</b> on Pre-Processor, and Pre-Processor <b>depends</b> on Data Gathering.|$|R
+5000|$|...depend: cmd = gcc -MM -MF <b>depend</b> $(var); cat <b>depend</b> >> [...]depend;.depend: @echo [...] "Generating dependencies..." [...] @$(foreach var, $(C_FILES), $(cmd)) @rm -f <b>depend</b> ...|$|R
+3000|$|... <b>depends</b> on {{consumption}} {{changes within}} {{the last two years}} and governmental expenditure does not <b>depend</b> on past years value, i.e. it <b>depends</b> only on [...]...|$|R
+5|$|Amelia Rose Blaire as Amy Ferrero, {{the lead}} protester who, <b>depending</b> on Serene's actions, {{is either a}} {{supporting}} character or is killed following the first act.|$|E
+5|$|An {{installed}} antenna’s feed-point impedance varies {{above and}} below the quoted value, <b>depending</b> on its installation height above the ground and the electrical properties of the surrounding earth.|$|E
+5|$|Breeding densities {{vary from}} 0.9–6pairs/km (1.4–9.7pairs/mi) of coast <b>depending</b> {{on the quality}} of the habitat. There are few threats, {{although}} oil spills can temporarily reduce the invertebrate population of affected rocky coasts.|$|E
+50|$|KWin 5.x <b>depends</b> on KDE Frameworks 5. KWin 4.x <b>depended</b> on KDE Platform 4, {{which was}} a {{monolithic}} library. KWin 3.x and earlier <b>depended</b> on KDELibs.|$|R
+30|$|FB 1 <b>depends</b> on {{the number}} of {{integrated}} odometric data at each iteration. FB 2 <b>depends</b> {{on the number}} of landmarks in the particle map, the number of extracted features and the size of both images and corner descriptor. FB 3 <b>depends</b> {{on the number of}} matched landmarks. FB 4 <b>depends</b> on the number of matched landmarks to be corrected. FB 5 <b>depends</b> on the number of newly observed landmarks to be initialized. FB 6 <b>depends</b> on the number of likelihoods computed in FB 4 and the number of used particles.|$|R
+5000|$|... {{where for}} simplicity, we assume an {{orthogonal}} lattice in which α only <b>depends</b> on m, β only <b>depends</b> on n and γ only <b>depends</b> on p. With this assumption, ...|$|R
+5|$|Cold Fear is a {{survival}} horror third-person shooter played from either a third-person fixed camera perspective or an over-the-shoulder camera, <b>depending</b> on the player's preferences.|$|E
+5|$|Competitive antagonists are sub-classified as {{reversible}} (surmountable) or irreversible (insurmountable) competitive antagonists, <b>depending</b> on {{how they}} interact with their receptor protein targets.|$|E
+5|$|Conclude treaties. However, {{it shall}} obtain prior or, <b>depending</b> on circumstances, {{subsequent}} {{approval of the}} Diet.|$|E
+50|$|In this UML package diagram, package A <b>depends</b> on {{packages}} B and C. Package B in turn <b>depends</b> on package D, which <b>depends</b> on package C, {{which in}} turn <b>depends</b> on package B. The latter three dependencies create a cycle, which must be broken in order {{to adhere to the}} acyclic dependencies principle.|$|R
+5000|$|Note {{that the}} {{recovery}} <b>depends</b> on the rate constant for unbinding, koff, only. It does not <b>depend</b> on the on rate for binding. Although it does <b>depend</b> {{on a number}} of assumptions ...|$|R
+50|$|B. Abstractions {{should not}} <b>depend</b> on details. Details should <b>depend</b> on abstractions.|$|R
+5|$|<b>Depending</b> on {{the players}} actions and the {{strength}} of Aeron's relationship with Elena, the game has six possible endings.|$|E
+5|$|<b>Depending</b> on {{the setup}} packet, an {{optional}} data packet from device to host or host to device may occur.|$|E
+5|$|Each {{decimal digit}} is sent as two, three, or four bits (<b>depending</b> on its {{possible}} range of values).|$|E
+2500|$|... i.e. {{the density}} ƒ can be {{factored}} into a product such that one factor, h, does not <b>depend</b> on θ {{and the other}} factor, which does <b>depend</b> on θ, <b>depends</b> on x only through T(x).|$|R
+5000|$|ScaLAPACK <b>depends</b> on PBLAS {{operations}} {{in the same way}} LAPACK <b>depends</b> on BLAS.|$|R
+50|$|A. High-level modules {{should not}} <b>depend</b> on {{low-level}} modules. Both should <b>depend</b> on abstractions.|$|R
+5|$|Epilepsy is {{characterized}} by a long-term risk of recurrent seizures. These seizures may present in several ways <b>depending</b> {{on the part of the}} brain involved and the person's age.|$|E
+5|$|For plural 1 the suffix is -i or -r (<b>depending</b> of {{the type}} of the noun). In Parmaquesta, the -í is (not always) long (the precise rules have not yet been published).|$|E
+5|$|Grills {{can cost}} {{anywhere}} from one hundred dollars {{to thousands of}} dollars, <b>depending</b> on the materials used {{and the number of}} teeth covered.|$|E
+50|$|Approximately 38% {{of economy}} of Swat <b>depends</b> on Tourism and 31% <b>depends</b> on Agriculture.|$|R
+5000|$|The rules {{govern the}} {{dependencies}} between the sorts: [...] says that values may <b>depend</b> on values (functions), [...] allows values to <b>depend</b> on types (polymorphism), [...] allows types to <b>depend</b> on types (type operators), and so on.|$|R
+60|$|But {{certainly}} {{this question of}} worshipping God must <b>depend</b> upon who God is. For how {{he ought to be}} worshipped <b>depends</b> on what will please him. And what will please him, <b>depends</b> on what his character is.|$|R

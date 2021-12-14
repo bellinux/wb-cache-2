@@ -1,0 +1,3 @@
+1|0|Public
+40|$|AbstractLet A be a {{singular}} M-matrix (or a strictly lower triangular matrix). The singular graph and level diagram of A are denoted by S(A) and S∗(A) respectively. The <b>Jordan</b> <b>diagram</b> of A (for 0) is denoted by J(A). The {{purpose of this}} paper is to answer the question: What are the relations of S(A) and S∗(A) to J(A) ? In the case ind(A) = 2, the following questions raised by H. Schneider are discussed: (a) Given J(A), what are the possible S∗(B) for M-matrices B such that J(B) =J(A) ? (b) Given S∗(A), what are the possible J(B) for M-matrices B such that S∗(B) = S∗(A) ...|$|E
+

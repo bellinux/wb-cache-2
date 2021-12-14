@@ -1,0 +1,37 @@
+0|512|Public
+3000|$|The {{following}} conventions are followed: bold lowercase letters denote vectors {{and bold}} <b>uppercase</b> <b>letters</b> denote matrices. Normal <b>uppercase</b> <b>letters</b> denote constants. (.) [...]...|$|R
+3000|$|... [...]). Matrices are {{expressed}} as bold <b>uppercase</b> <b>letters</b> (e.g., X,B). Lowercase bold letters {{are used for}} vectors (e.g., u, a). Lowercase and <b>uppercase</b> <b>letters</b> are scalers (e.g., a,b,c,D,E).|$|R
+3000|$|Regarding notations, we {{will use}} {{lowercase}} or <b>uppercase</b> <b>letters</b> for scalars, lowercase boldface letters for vectors, and <b>uppercase</b> boldface <b>letters</b> for matrices. Furthermore, [...]...|$|R
+3000|$|Throughout this paper, scalars are denoted with lower- or <b>uppercase</b> normal <b>letters,</b> and vectors and {{matrices}} are denoted with bold-faced lower- and <b>uppercase</b> <b>letters,</b> respectively. Superscripts (·) [...]...|$|R
+5000|$|Lowercase and <b>uppercase</b> <b>letters</b> of ISO Basic Latin Alphabet: - - ...|$|R
+2500|$|... 4DOS (uses {{lowercase}} {{letters as}} decimal and <b>uppercase</b> <b>letters</b> as binary prefixes) ...|$|R
+50|$|An <b>uppercase</b> <b>letter</b> in the {{stationary}} disk {{is used as}} an index.|$|R
+5000|$|... 4DOS (uses {{lowercase}} {{letters as}} decimal and <b>uppercase</b> <b>letters</b> as binary prefixes) ...|$|R
+5000|$|... ===National Item Identification Number=== The next 9 digits {{make up the}} National Item Identification Number / NATO Item Identification Number (NIIN). The NIIN {{has lately}} become {{alphanumeric}} (digits and <b>uppercase</b> <b>letters)</b> due to the vast array of items in the NSN, recently adopting {{the use of the}} <b>uppercase</b> <b>letter</b> C in place of [...] "12" [...] in 2000.|$|R
+50|$|Despite {{the use of}} <b>uppercase</b> <b>letters,</b> MULTICOM is not an {{abbreviation}} or acronym.|$|R
+50|$|Names {{eighteen}} {{to twenty}} <b>uppercase</b> <b>letters.</b> Writes several letters and sometimes their name.|$|R
+5000|$|Underlining {{and other}} attention-catching textural {{techniques}} such as boldface, <b>uppercase</b> <b>letters,</b> colour-coding, etc.|$|R
+50|$|Variable names {{begin with}} a dollar sign ($) and an <b>uppercase</b> <b>letter,</b> {{lowercase}} letter, or underscore.|$|R
+5000|$|... …where each <b>uppercase</b> <b>letter</b> {{corresponds}} to phrases {{starting at the}} next position in the regular expression.|$|R
+40|$|Abstract—We analyze {{transfer}} {{learning with}} Deep Neural Networks (DNN) on various character recognition tasks. DNN trained on digits are perfectly capable of recognizing <b>uppercase</b> <b>letters</b> with minimal retraining. They are on par with DNN fully trained on <b>uppercase</b> <b>letters,</b> but train much faster. DNN trained on Chinese characters easily recognize <b>uppercase</b> Latin <b>letters.</b> Learning Chinese characters is accelerated by first pretraining a DNN on a small subset of all classes and then continuing to train on all classes. Furthermore, pretrained nets consistently outperform randomly initialized nets on new tasks with few labeled data. I...|$|R
+3000|$|Vectors are {{denoted by}} boldface {{lowercase}} letters and matrices by boldface <b>uppercase</b> <b>letters.</b> We use superscripts [...]...|$|R
+3000|$|Notation: Bold face <b>uppercase</b> <b>letters</b> denote matrices, {{bold face}} lower case letters denote vectors. The {{superscript}} (.) [...]...|$|R
+5000|$|... #Caption: Venn diagram showing which <b>uppercase</b> <b>letter</b> glyphs {{are shared}} by the Greek, Latin and Russian alphabets ...|$|R
+5000|$|The {{number of}} {{different}} characters {{that can be used}} with a standard English Keyboard, excluding <b>uppercase</b> <b>letters.</b>|$|R
+3000|$|Notation: Boldface <b>uppercase</b> <b>letters</b> denote {{matrices}} and boldface lowercase letters {{refer to}} column vectors. We denote by (.) [...]...|$|R
+3000|$|... denotes {{statistical}} expectation. Lowercase letters represent scalars, boldface lowercase letters represent vectors, and boldface <b>uppercase</b> <b>letters</b> denote matrices. Moreover [...]...|$|R
+50|$|The {{system of}} Armenian numerals is a {{historic}} numeral system created using the majuscules (<b>uppercase</b> <b>letters)</b> of the Armenian alphabet.|$|R
+5000|$|The Emblem for Reserve Force Service {{consists}} of the <b>uppercase</b> <b>letters</b> [...] "RD", 8 millimetres high and struck in silver.|$|R
+5000|$|... #Caption: <b>Uppercase</b> <b>letters</b> and {{a picture}} of Marquis de Lafayette were {{commonly}} used as Lafayette's logo through the 1960s and '70s ...|$|R
+5000|$|The first Unicode {{block for}} Cherokee is U+13A0 - U+13FF. It {{contains}} all 86 <b>uppercase</b> <b>letters,</b> together with six lowercase letters: ...|$|R
+50|$|The {{fact that}} all the code points were {{different}} was {{less of a problem}} for inter-operating with ASCII than the fact that sorting EBCDIC put lowercase <b>letters</b> before <b>uppercase</b> <b>letters</b> and letters before numbers, exactly the opposite of ASCII.|$|R
+25|$|While the FIDE Handbook, {{appendix}} C.13 {{uses the}} digit zero (0-0 and 0-0-0), PGN requires the <b>uppercase</b> <b>letter</b> O (O-O and O-O-O).|$|R
+3000|$|Throughout this paper, the {{following}} notations are used. Bold lowercase and <b>uppercase</b> <b>letters</b> {{are used to}} denote column vectors and matrices, respectively.|$|R
+3000|$|Notation: we use un{{highlighted}} {{letters for}} scalar variables, highlighted lowercase letters for vectors, and highlighted <b>uppercase</b> <b>letters</b> for matrix. ([...] [...]) [...]...|$|R
+50|$|Below are the accented {{characters}} {{provided in}} Unicode. In the <b>uppercase</b> <b>letters,</b> the iota adscript may appear as subscript depending on font.|$|R
+50|$|While the FIDE Handbook, {{appendix}} C.13 {{uses the}} digit zero (0-0 and 0-0-0), PGN requires the <b>uppercase</b> <b>letter</b> O (O-O and O-O-O).|$|R
+5000|$|... #Subtitle level 4: Rule 2. The {{first letter}} of any {{personal}} name, family, country, city, etc. are indicated by an <b>uppercase</b> <b>letter.</b>|$|R
+3000|$|We first {{introduce}} {{definitions of}} tensor operations {{to fix the}} notations. In our paper, Mathcal font and <b>uppercase</b> <b>letters</b> denote tensors (e.g., [...]...|$|R
+50|$|The <b>uppercase</b> <b>letter</b> alpha is not {{generally}} {{used as a}} symbol because {{it tends to be}} rendered identically to the uppercase Latin A.|$|R
+3000|$|Notation: We use boldface <b>uppercase</b> <b>letter</b> A and boldface {{lowercase}} letter a {{to represent}} matrix and column vector, respectively. E(·), ∥·∥, (·)∗, (·) [...]...|$|R
+3000|$|Notation: Throughout this paper, vectors and {{matrices}} will {{be represented}} by boldfaced lowercase and <b>uppercase</b> <b>letters</b> (e.g., x and X), respectively. All vectors are defined as column vectors. Variables and constants are denoted in lowercase and <b>uppercase</b> <b>letters</b> (e.g., x and X), respectively. Superscript [...] and † represent the transpose and the Moore-Penrose pseudoinverse of a matrix, respectively. The notation N (0, 1) is denoted as the Gaussian distribution with zero mean and unit variance, and E{x} represents the mean of x.|$|R

@@ -1,0 +1,37 @@
+10000|10000|Public
+5|$|Bold <b>denotes</b> league-leading statistic.|$|E
+5|$|GWG <b>denotes</b> {{the game-winning}} goal.|$|E
+5|$|Italics <b>denotes</b> players {{still playing}} {{professional}} football,Bold <b>denotes</b> players still {{playing in the}} Premier League.|$|E
+3000|$|... in {{the main}} diagonal. Expectation is <b>denoted</b> by E{·}. Both × and · are used to <b>denote</b> multiplication. Bold {{lowercase}} letters (e.g., x) <b>denote</b> vectors, and bold uppercase letters (e.g., X) <b>denote</b> matrices. Covariance is <b>denoted</b> by cov(b,c):[*]=[*]E{bc [...]...|$|R
+30|$|Where {{the size}} of the {{particle}} is <b>denoted</b> as D, Scherer’s (0.94) constant is <b>denoted</b> as K, Bragg’s equation (2 dsinθ[*]=[*]nλ), Wavelength is <b>denoted</b> as be λ, FWHM is <b>denoted</b> as β, and the diffraction angle is <b>denoted</b> as θ.|$|R
+25|$|The glyphs of {{the planets}} are usually (but not always) broken down into four common elements: A circle <b>denoting</b> spirit, a {{crescent}} <b>denoting</b> the mind, a cross <b>denoting</b> practical/physical matter and an arrow <b>denoting</b> action or direction.|$|R
+5|$|S/R <b>denotes</b> strike rate.|$|E
+5|$|Test <b>denotes</b> {{the number}} of the Test match played in that series (for example, (1/3) <b>denotes</b> the first Test in a three match series).|$|E
+5|$|A bolded year <b>denotes</b> a Memorial Cup win.|$|E
+5000|$|The {{product is}} <b>denoted</b> if [...] = {1, ..., }, then <b>denoted</b> [...] {{and the product}} of morphisms is <b>denoted</b> [...]|$|R
+3000|$|In the following, we use bold {{letters to}} <b>denote</b> vectors (X) and italics to <b>denote</b> scalars (X). Quantities in the 3 D space are <b>denoted</b> by upper case letters (X, X) while image {{quantities}} are <b>denoted</b> by lower case letters (x, x). Finally, points {{lying on the}} ellipses obtained from the segmentation algorithm are now <b>denoted</b> by x [...]...|$|R
+3000|$|We use {{lower case}} letters x to <b>denote</b> scalars, lower case boldface x to <b>denote</b> (column) vectors and x(i) to <b>denote</b> {{individual}} entries of a vector. Matrices are <b>denoted</b> by upper boldface letters X, whereas the calligraphic notations [...]...|$|R
+5|$|A dash <b>denotes</b> {{that the}} person had no {{previous}} academic link with the college.|$|E
+5|$|An {{asterisk}} (*) <b>denotes</b> {{that the}} batsman was not out.|$|E
+5|$|An em-dash (—) <b>denotes</b> {{countries}} in which the singles were not released or did not chart.|$|E
+3000|$|The {{following}} conventions are followed: bold lowercase letters <b>denote</b> vectors {{and bold}} uppercase letters <b>denote</b> matrices. Normal uppercase letters <b>denote</b> constants. (.) [...]...|$|R
+5000|$|For queue [...] let [...] <b>denote</b> {{the random}} inter-arrival time, [...] <b>denote</b> the random service time;let [...] <b>denote</b> the traffic {{intensity}} with [...] and let [...] <b>denote</b> the waiting time in queue for a customer in steady state; Let [...] and ...|$|R
+3000|$|We <b>denote</b> the set R_+×Γ in R^n {{with the}} domain Γ on S^n- 1 by T_n(Γ). We {{call it a}} cone. In particular, the {{half-space}} R_+×S_+^n- 1 is <b>denoted</b> by T_n(S_+^n- 1). The sets I×Γ and I×∂Γ with an interval on R are <b>denoted</b> by T_n(Γ;I) and S_n(Γ;I), respectively. We <b>denote</b> T_n(Γ)∩ S_l by S_n(Γ l), and we <b>denote</b> S_n(Γ; (0,+∞)) by S_n(Γ).|$|R
+5|$|An {{italicized}} year <b>denotes</b> {{team was}} {{host of the}} tournament.|$|E
+5|$|Apps <b>denotes</b> {{the number}} of {{appearances}} the player has made for Somerset.|$|E
+5|$|BF <b>denotes</b> {{the number}} of balls faced by Richards in his innings.|$|E
+3000|$|... to <b>denote</b> Hermitian of A, and |A| to <b>denote</b> the {{determinant}} of A. We use (x)+ to <b>denote</b> max(x, 0). We use CN(0,Q) to <b>denote</b> a circularly symmetric complex Gaussian distribution with zero mean and covariance matrix Q. We use I [...]...|$|R
+3000|$|... all-one matrix is <b>denoted</b> 1 _N× N_B. The Frobenius norm of {{a matrix}} A is <b>denoted</b> A_F=√(trace(AA^H)). Calligraphic letters such as S <b>denote</b> sets.|$|R
+3000|$|... <b>denote</b> {{the dual}} space of E. We use ‘→’ and ‘⇀’ to <b>denote</b> strong and weak convergence, respectively. We <b>denote</b> {{the value of}} [...]...|$|R
+5|$|Balls <b>denotes</b> {{the number}} of balls faced in an innings.|$|E
+5|$|Bold <b>denotes</b> {{still active}} with team.|$|E
+5|$|Boldface <b>denotes</b> career high in each statistics.|$|E
+3000|$|..., abs(a) to <b>denote</b> the {{absolute}} value of complex number a, (·)∗ to <b>denote</b> complex conjugate, δ(·) to <b>denote</b> the Kronecker-delta function, and F [...]...|$|R
+5000|$|Letting [...] <b>denote</b> {{the real}} {{interest}} rate, [...] <b>denote</b> the nominal interest rate, and let [...] <b>denote</b> the inflation rate, the Fisher equation is: ...|$|R
+5000|$|... will <b>denote</b> one of {{the fields}} of real or complex numbers, <b>denoted</b> , respectively. The vector space of [...] {{matrices}} over [...] is <b>denoted</b> by [...]|$|R
+5|$|Date <b>denotes</b> {{the date}} on which the match began.|$|E
+5|$|Date <b>denotes</b> {{the date}} the match started on.|$|E
+5|$|<b>Denotes</b> an Opposition Leader who had {{previously}} been Prime Minister.|$|E
+3000|$|Let {{us first}} {{introduce}} some essential notation. Scalars are <b>denoted</b> by lowercase letters, e.g., a. Vectors are <b>denoted</b> by boldface lowercase letters, e.g., a; matrices are <b>denoted</b> by boldface capital letters, e.g., A. Higher-order tensors are <b>denoted</b> by boldface Euler script letters, e.g., [...]...|$|R
+3000|$|Henceforth, bold lower cases <b>denote</b> real-valued vectors {{and bold}} upper cases <b>denote</b> real-valued matrices. The {{transpose}} {{of a given}} matrix A is <b>denoted</b> by A [...]...|$|R
+3000|$|As usual, let H^s(Ω [...]) <b>denote</b> the {{standard}} Sobolev space of order s> 0 on Ω with norm <b>denoted</b> by · _H^s(Ω [...]) and semi-norm <b>denoted</b> by |· |_H^s(Ω [...]). Let L^ 2 (Ω [...]) <b>denote</b> the L^ 2 -norm on Ω with norm <b>denoted</b> by · _Ω. The corresponding inner products are labeled accordingly. We will {{also use the}} notation x ≲ y to <b>denote</b> the inequality x < C y, where C is a constant. The corresponding inequality x ≳ y is defined accordingly.|$|R

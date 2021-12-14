@@ -1,0 +1,3 @@
+1|0|Public
+5000|$|If [...] {{is chosen}} {{larger than the}} highest {{frequency}} of [...] then [...] has no positive frequencies. In that case, extracting the real component restores them, but in reverse order; the low-frequency components are now high ones and vice versa. This {{can be used to}} demodulate a type of single sideband signal called lower sideband or <b>inverted</b> <b>sideband.</b>|$|E
+

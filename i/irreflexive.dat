@@ -1,0 +1,37 @@
+192|0|Public
+25|$|A strict {{partial order}} is <b>irreflexive,</b> transitive, and asymmetric.|$|E
+25|$|The {{complement}} of a reflexive relation is <b>irreflexive</b> and vice versa.|$|E
+25|$|The {{number of}} <b>irreflexive</b> {{relations}} {{is the same}} as that of reflexive relations.|$|E
+25|$|The {{number of}} strict partial orders (<b>irreflexive</b> {{transitive}} relations) {{is the same}} as that of partial orders.|$|E
+25|$|Reflexive reduction: Rthinsp&≠, {{defined as}} Rthinsp&≠ = R \ {thinsp&(x, x) | x ∈ Xthinsp&} or the largest <b>irreflexive</b> {{relation}} over X contained in R.|$|E
+25|$|The {{previous}} 3 {{alternatives are}} far from being exhaustive; e.g. the red relation y=x2 from the above picture is neither <b>irreflexive,</b> nor coreflexive, nor reflexive, since it contains the pair (0,0), and (2,4), but not (2,2), respectively.|$|E
+25|$|This form of {{mathematical}} induction {{is not only}} valid for statements about natural numbers, but for statements about elements of any well-founded set, that is, a set with an <b>irreflexive</b> relation < that contains no infinite descending chains.|$|E
+25|$|S is reflexive, <b>irreflexive,</b> symmetric, antisymmetric, asymmetric, transitive, total, trichotomous, {{a partial}} order, total order, strict weak order, total {{preorder}} (weak order), an equivalence relation, or a relation {{with any other}} special properties, {{if and only if}} R is.|$|E
+2500|$|... <b>irreflexive</b> (or strict): for all x in X {{it holds}} that not xRx. [...] For example, > is an <b>irreflexive</b> relation, but ≥ is not.|$|E
+2500|$|... {{independency}} relation, a symmetric, <b>irreflexive</b> relation {{which is}} the complement of some dependency relation.|$|E
+2500|$|For each (non-strict) {{total order}} ≤ {{there is an}} {{associated}} asymmetric (hence <b>irreflexive)</b> relation <, called a strict total order, which can equivalently be defined in two ways: ...|$|E
+2500|$|If a {{relation}} is reflexive, <b>irreflexive,</b> symmetric, antisymmetric, asymmetric, transitive, total, trichotomous, a partial order, total order, strict weak order, total preorder (weak order), [...] or an equivalence relation, its restrictions are too.|$|E
+2500|$|... asymmetric: for all x and y in X, if xRy {{then not}} yRx. A {{relation}} is asymmetric if {{and only if}} it is both anti-symmetric and <b>irreflexive.</b> For example, > is asymmetric, but ≥ is not.|$|E
+2500|$|... transitive: for all x, y and z in X {{it holds}} that if xRy and yRz then xRz. For example, [...] "is {{ancestor}} of" [...] is transitive, while [...] "is parent of" [...] is not. A transitive relation is <b>irreflexive</b> if {{and only if}} it is asymmetric.|$|E
+5000|$|... <b>irreflexive</b> (or strict): for all x in X {{it holds}} that not xRx. For example, > is an <b>irreflexive</b> relation, but ≥ is not.|$|E
+50|$|We {{say that}} a frame F has {{reflexive}} (<b>irreflexive)</b> tight predecessors, if for every finite subset X of W, there exists a reflexive (<b>irreflexive)</b> tight predecessor of X in W.|$|E
+50|$|Although this {{definition}} uses the reflexive convention {{we could have}} chosen the <b>irreflexive</b> convention in which the order relation is <b>irreflexive.</b> The causal relation of a Lorentzian manifold (without closed causal curves) satisfies the first three conditions. It is the local finiteness condition that introduces spacetime discreteness.|$|E
+50|$|A strict {{partial order}} is <b>irreflexive,</b> transitive, and asymmetric.|$|E
+5000|$|... an <b>irreflexive</b> {{symmetric}} relation [...] called incompatibility (or conflict) ...|$|E
+5000|$|In some contexts, {{the partial}} order defined above {{is called a}} non-strict (or reflexive, or weak) partial order. In these contexts, a strict (or <b>irreflexive)</b> partial order [...] "<" [...] is a binary {{relation}} that is <b>irreflexive,</b> transitive and asymmetric, i.e. which satisfies for all a, b, and c in P: ...|$|E
+5000|$|... {{a strict}} partial order is an <b>irreflexive</b> and {{transitive}} relation ...|$|E
+50|$|The {{complement}} of a reflexive relation is <b>irreflexive</b> and vice versa.|$|E
+50|$|A {{transitive}} relation is asymmetric if {{and only if}} it is <b>irreflexive.</b>|$|E
+50|$|The {{number of}} <b>irreflexive</b> {{relations}} {{is the same}} as that of reflexive relations.|$|E
+5000|$|Assuming {{that the}} {{ordering}} is <b>irreflexive</b> and transitive, {{this can be}} simplified to ...|$|E
+5000|$|A {{relation}} is asymmetric if {{and only}} if it is both antisymmetric and <b>irreflexive.</b>|$|E
+5000|$|Like all strict partial orders, the happened-before {{relation}} is transitive, <b>irreflexive</b> and antisymmetric, i.e.: ...|$|E
+5000|$|... {{independency}} relation, a symmetric, <b>irreflexive</b> relation {{which is}} the complement of some dependency relation.|$|E
+50|$|The {{number of}} strict partial orders (<b>irreflexive</b> {{transitive}} relations) {{is the same}} as that of partial orders.|$|E
+5000|$|That is, the {{independency}} is {{the set of}} all ordered pairs {{that are}} not in [...] The independency is symmetric and <b>irreflexive.</b>|$|E
+5000|$|... a rule is {{admissible}} in GL if {{and only if}} it is valid in all transitive converse well-founded frames which have <b>irreflexive</b> tight predecessors.|$|E
+5000|$|... a rule is {{admissible}} in K4 if {{and only if}} it is valid in all transitive frames which have reflexive and <b>irreflexive</b> tight predecessors, ...|$|E
+5000|$|Reflexive reduction: R&thinsp;≠, {{defined as}} R&thinsp;≠ = R \ {&thinsp;(x, x) | x ∈ X&thinsp;} or the largest <b>irreflexive</b> {{relation}} over X contained in R.|$|E
+5000|$|The {{union of}} any well-founded rewrite order R with (<) is well-founded, where (<) denotes the <b>irreflexive</b> kernel of (≤). In particular, (<) itself is well-founded.|$|E
+5000|$|For each (non-strict) {{total order}} ≤ {{there is an}} {{associated}} asymmetric (hence <b>irreflexive)</b> relation <, called a strict total order, which can equivalently be defined in two ways: ...|$|E
+5000|$|Infinity. There {{exists a}} nonempty binary {{relation}} [...] over the individuals {{of the lowest}} type, that is <b>irreflexive,</b> transitive, and strongly connected: [...] and with codomain contained in domain.|$|E

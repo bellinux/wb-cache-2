@@ -1,0 +1,4 @@
+1|1|Public
+5000|$|The <b>drive</b> <b>specifier</b> {{character}} [...] as {{the first}} character of a leaf name (the file's name proper). This causes a [...] or [...] error. Where the colon is unambiguous, for example in , then it is allowed {{as part of the}} leaf name.|$|E
+5000|$|A fully {{qualified}} filename, or [...] "file specification" [...] ("fsp" [...] for short) {{contains a}} colon then the drive number, a dot, then the directory letter, another dot, and the name. For example, a file in the default directory of [...] "drive" [...] 2 called [...] {{would have a}} complete specification of [...] The <b>drive</b> and directory <b>specifiers</b> are both optional.|$|R
+

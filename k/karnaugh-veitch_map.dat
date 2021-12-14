@@ -1,0 +1,4 @@
+1|2|Public
+5000|$|Karnaugh map (a.k.a. <b>Karnaugh-Veitch</b> <b>map,</b> Veitch diagram) - Maurice Karnaugh (and Edward W. Veitch) ...|$|E
+25|$|The Karnaugh map (KM or K-map) is {{a method}} of {{simplifying}} Boolean algebra expressions. Maurice Karnaugh introduced it in 1953 as a refinement of Edward Veitch's 1952 Veitch chart, which actually was a rediscovery of Allan Marquand's 1881 logical diagram aka Marquand diagram but with a focus now set on its utility for switching circuits. Veitch charts are therefore also known as Marquand–Veitch diagrams, and Karnaugh <b>maps</b> as <b>Karnaugh–Veitch</b> <b>maps</b> (KV maps).|$|R
+

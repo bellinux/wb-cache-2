@@ -1,0 +1,4 @@
+1|1|Public
+5000|$|In <b>half</b> <b>transponder</b> mode, the {{frequency}} deviation of the composite baseband signal {{is reduced to}} 18 MHz to allow another signal in {{the other half of}} the 36 MHz transponder. This reduces the FM benefit somewhat, and the recovered SNRs are further reduced because the combined signal power must be [...] "backed off" [...] to avoid intermodulation distortion in the satellite transponder. A single FM signal is constant amplitude, so it can saturate a transponder without distortion.|$|E
+50|$|BADR-3 (technically: Arabsat-3A) was {{launched}} {{as the first}} satellite of the third generation, on 26 February 1999. <b>Half</b> of its <b>transponders</b> were switched off on 7 December 2001 after a solar-panel malfunction.|$|R
+

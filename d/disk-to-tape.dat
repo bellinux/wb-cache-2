@@ -1,0 +1,3 @@
+1|0|Public
+50|$|With the {{installation}} of the Pleiades supercomputer in 2008, the StorageTek systems that NAS had been using for 20 years were unable {{to meet the needs of}} the greater number of users and increasing file sizes of each project's datasets. In 2009, NAS brought in Spectra Logic T950 robotic tape systems which increased the maximum capacity at the facility to 16 petabytes of space available for users to archive their data from the supercomputers. As of March 2014, the NAS facility increased the total archival storage capacity of the Spectra Logic tape libraries to 126 petabytes. SGI's Data Migration Facility (DMF) and OpenVault manage <b>disk-to-tape</b> data migration and tape-to-disk de-migration for the NAS facility.|$|E
+

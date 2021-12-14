@@ -1,0 +1,4 @@
+2|0|Public
+50|$|In cryptography, FEAL (the Fast data <b>Encipherment</b> <b>ALgorithm)</b> is a {{block cipher}} {{proposed}} {{as an alternative}} to the Data Encryption Standard (DES), and designed to be much faster in software. The Feistel based algorithm was first published in 1987 by Akihiro Shimizu and Shoji Miyaguchi from NTT. The cipher is susceptible to various forms of cryptanalysis, and has acted as a catalyst in the discovery of differential and linear cryptanalysis.|$|E
+40|$|This paper {{discusses}} {{the security of}} the Fast Data <b>Encipherment</b> <b>Algorithm</b> (FEAL) against Linear Cryptanalysis. It has been confirmed that the entire subkeys used in FEAL- 8 can be derived with 2 ^ 25 pairs of known plaintext and ciphertext with a success rate over 70 % spending about 1 hour using a WS (SPARCstation 10 Model 30). This paper also evaluates the security of FEAL-N in comparison with that of the Data Encryption Standard (DES) ...|$|E
+

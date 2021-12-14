@@ -1,0 +1,3 @@
+1|0|Public
+40|$|This paper {{describes}} a methodology {{for the design}} of geared robotic mechanisms. We have shown that certain gear-coupled manipulators can be designed to possess an isotropic condition at a given end-effector position. For these gear-coupled manipulators, the train values can be treated as a product of two-stage gear reductions. The second-stage reduction can be uniquely determined from the kinematic isotropic condition, while the <b>first-stage</b> <b>reduction</b> can be determined from dynamic consideration. This approach, through proper choice of gear ratios, can provide these gear-coupled manipulators with desired kinematic and dynamic characteristics...|$|E
+

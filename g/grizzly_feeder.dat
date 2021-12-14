@@ -1,0 +1,4 @@
+2|0|Public
+5000|$|Screening: 1 Screen Deck, 2 Screen Deck, 3 Screen Deck, 4 Screen Deck, Variable Screen, Stationary Grid, <b>Grizzly</b> <b>Feeder,</b> Roller Screen, Sieve Bend ...|$|E
+40|$|Abstract—The project {{involved}} in this paper is a Vibrating <b>grizzly</b> <b>feeder,</b> 1200 TPH capacity designed by ELECON Engineering Pvt. Ltd. The main function of VGF is to convey the material by effect of creation of vibration. So Modal analysis of VGF should be carried out. In this paper based on structural vibration theory and theory of finite element model(FEM), the 3 D model of VGF is made in Pro-E and analyzed on ANSYS-workbench 14. Vibration mode and frequency can be concluded by calculating of the VGF’s FEM model. Further different loading conditions were applied on VGF and under this conditions deformation and Von Mises stress has been found out...|$|E
+

@@ -1,0 +1,37 @@
+0|1417|Public
+2500|$|... (The {{combining}} <b>initial</b> <b>letter</b> {{is written}} here in boldface, {{as it does}} not always correspond to the <b>initial</b> <b>letter</b> of printed orthography.) ...|$|R
+40|$|Finding {{aid for the}} {{collection}}. The {{collection is}} in two series. Series I contains primarily <b>letters,</b> <b>greeting</b> cards and postcards received by Allen {{from family and friends}} during his college years, 1940 - 1942. Series II contains court papers, financial records, insurance documents, receipts, and ephemera related to Allen's relative, James H. Joyner, a medical doctor in Sumner County, Tenn., in the late 19 th century...|$|R
+25|$|The <b>initial</b> <b>letters</b> in red.|$|R
+50|$|The <b>initial</b> <b>letters</b> in red.|$|R
+50|$|It has {{decorated}} headpieces and <b>initial</b> <b>letters.</b>|$|R
+40|$|In the {{previous}} sections we assumed for simplicity of exposition {{that there is}} just one letter in the reference dataset. However with the explosion of interest in digitizing cultural artifacts, there are now huge collections of carefully annotated <b>initial</b> <b>letters</b> online [10]. Moreover, these collections are growing constantly. For example, there are currently 6, 395 annotated <b>initial</b> <b>letters</b> in the “Virtual Library Humanist Program ” (VLHP) digital library [10], and there are numerous other digital libraries of historical manuscripts that have this scale of annotated <b>initial</b> <b>letters.</b> Given this, {{when we have a}} candidate unlabeled <b>initial</b> <b>letter</b> as a query, how can we quickly find its nearest neighbor in a large annotated <b>initial</b> <b>letter</b> dataset? The usual solution to such problems is to index the data [3][11]. However, as we have previously discussed, the CK 1 -measure is not amenable to most indexing techniques, given that it does not obey the triangular inequality and that no explicit features are extracted. We propose a simple but efficient algorithm to speed up the search. It exploits our novel lower bound, which we have previously shown to be useful for the complementary problem of reducing the number of candidates that need to be tested in the first place. The intuition behind our solution comes from observing the black pixel density distribution for the 6, 395 annotated <b>initial</b> <b>letters</b> for the VLHP archive [10]. In Fig. 1, we see that the black pixel density distribution for this large collection of annotated <b>initial</b> <b>letters</b> is approximately Gaussian. Moreover, and more importantly for us, the variance is relatively large...|$|R
+5000|$|... #Caption: Example of 1962-onwards logo with {{enlarged}} <b>initial</b> <b>letters</b> ...|$|R
+5000|$|... #Caption: <b>Initial</b> <b>letter</b> A from Tory's book Champ-fleury, 1529 ...|$|R
+50|$|A {{standard}} abbreviation is {{also used}} for these epochs and stages, mostly in the form Xx where the first <b>letter</b> is the <b>initial</b> <b>letter</b> of the epoch and the second (lower-case) <b>letter</b> is the <b>initial</b> <b>letter</b> of the stage. These are listed alongside the stage names in the list below.|$|R
+5000|$|The codex {{contains}} a complete {{text of the}} four Gospels on 349 parchment leaves (size [...] ). The text is written in one column per page, in 24 lines per page (size of column 9.2 by 6.8 cm), in dark-brown ink, the large <b>initial</b> <b>letters</b> in gold, small <b>initial</b> <b>letters</b> in red.|$|R
+5000|$|Five consonants become <b>initial</b> <b>letter</b> {{of words}} merging with 12 vowels ...|$|R
+5000|$|Deletion of any monogram, or <b>initial</b> <b>letter</b> {{on weapons}} and {{equipment}} ...|$|R
+5000|$|Shorted u becomes as <b>initial</b> <b>letter</b> in {{one word}} ‘nunthai’. நுந்தை ...|$|R
+5000|$|Alphabets, <b>initial</b> <b>letters,</b> numbers, digits, logos {{and writing}} {{inspired}} by Europe (2008) ...|$|R
+50|$|The <b>initial</b> <b>letter</b> of {{the name}} {{indicated}} {{the use of that}} equipment.|$|R
+50|$|The <b>initial</b> <b>letters</b> of each {{paragraph}} are, in order, N C O.|$|R
+5000|$|The handle signifies Chi Rho - <b>initial</b> <b>letters</b> of {{the word}} Christ.|$|R
+60|$|The <b>initial</b> <b>letters</b> {{alone are}} given. They are all {{residents}} of Cincinnati.|$|R
+40|$|The article explores {{iconography}} of the illuminated <b>initial</b> <b>letters</b> in the tenth-eleventh-century Italo-Byzantine psalter (Vatican, Barber. gr. 285). It {{is argued that}} its <b>initial</b> <b>letters</b> clearly express Byzantine attitude to personal prayer, a plea for salvation and the struggle with evil through the words of Psalms, despite the mixture of models, {{most of which are}} certainly of non-Byzantine character...|$|R
+25|$|It has the ornamented {{headpieces}} {{before each}} Gospel and the decorated <b>initial</b> <b>letters.</b>|$|R
+50|$|The province's name {{is derived}} from the <b>initial</b> <b>letters</b> of MALakula, AMbrym, PAama.|$|R
+50|$|The province's name {{is derived}} from the <b>initial</b> <b>letters</b> of SHepherd and EFAte.|$|R
+50|$|Tonic sol-fa {{is a type}} of {{notation}} {{using the}} <b>initial</b> <b>letters</b> of solfege.|$|R
+5000|$|The symbol marker {{combines}} with {{a following}} <b>initial</b> <b>letter</b> {{to produce the}} following: ...|$|R
+25|$|Notarikon, {{a method}} of {{deriving}} a word by using each of its <b>initial</b> <b>letters.</b>|$|R
+5000|$|Acronyms, the {{reduction}} of compounds to their <b>initial</b> <b>letters,</b> such as [...] and [...]|$|R
+50|$|The name Penama {{is derived}} from the <b>initial</b> <b>letters</b> of PENtecost, Ambae and MAewo.|$|R
+5000|$|Following his <b>initial</b> <b>letters</b> to the newspapers, Wiggs enlisted an Anti-Concorde Project Advisory Committee: ...|$|R
+5000|$|... #Caption: Faroese stamp from 1981 {{with the}} <b>Initial</b> <b>letter</b> {{in the book}} of Lund.|$|R
+5000|$|List of {{television}} {{stations in the}} United States by call sign (<b>initial</b> <b>letter</b> W) ...|$|R
+5000|$|Notarikon, {{a method}} of {{deriving}} a word by using each of its <b>initial</b> <b>letters.</b>|$|R
+5000|$|The astrological {{symbol for}} planet Uranus (...) {{features}} the capital <b>initial</b> <b>letter</b> of Herschel's surname.|$|R
+5000|$|All {{chapters}} {{that start}} with <b>initial</b> <b>letters</b> muqattaat are Meccan, except chapters 2,3 and 13.|$|R
+50|$|Tarmac is a {{registered}} trademark although it is frequently written with a lower-case <b>initial</b> <b>letter.</b>|$|R
+5000|$|... #Caption: Illuminated <b>initial</b> <b>letter</b> showing Henry IV {{from the}} records of the Duchy of Lancaster.|$|R
+5000|$|The band's {{name was}} an acronym {{formed by the}} <b>initial</b> <b>letters</b> of each member's surname: ...|$|R

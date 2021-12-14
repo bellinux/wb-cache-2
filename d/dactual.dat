@@ -1,0 +1,3 @@
+1|0|Public
+3000|$|... that {{describes}} the mean time a frame waits in queue to be serviced by the MAC, where the queue is modeled as a M/G/ 1 queue (a single server with frame arrivals having a Poisson distribution and service time having a general distribution). Total actual delay <b>Dactual</b> is modeled as the sum of (20) and an expression for the expected value of HOL delay which takes into account backoff delay.|$|E
+

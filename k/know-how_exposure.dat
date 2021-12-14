@@ -1,0 +1,3 @@
+1|0|Public
+40|$|International audienceBusiness process (BP) {{stakeholders}} want {{to enjoy}} {{the benefits of the}} cloud, but they are also reluctant to expose their BP models which express the know-how of their companies. To prevent such a <b>know-how</b> <b>exposure,</b> this paper proposes a design-time approach for transforming a BP model into BP fragments so that these BP fragments externalized in a multi-cloud context do not allow a cloud resource provider to understand a critical fragment of the company. While existing contributions on this topic remain at the level of principles, we propose an algorithm supporting automatically such a BP model transformation...|$|E
+

@@ -1,0 +1,37 @@
+0|7906|Public
+50|$|The <b>Euroloop</b> <b>is</b> an {{extension}} for Eurobalises in ETCS Level 1. It {{is a special}} Leaky feeder for transmitting information telegrams to the car.|$|R
+50|$|The <b>Euroloop</b> {{frequency}} <b>was</b> {{moved to}} a centre of 13.54750 MHz (exactly half of the Eurobalise power frequency).|$|R
+50|$|Germany {{intends to}} use Level 1 only as Limited Supervision - neither Full Supervision nor <b>Euroloops</b> will <b>be</b> installed.|$|R
+50|$|Level 1 is a cab {{signalling}} {{system that can}} be superimposed on the existing {{signalling system}}, leaving the fixed signalling system (national signalling and track-release system) in place. Eurobalise radio beacons pick up signal aspects from the trackside signals via signal adapters and telegram coders (Lineside Electronics Unit - LEU) and transmit them to the vehicle as a movement authority together with route data at fixed points. The on-board computer continuously monitors and calculates the maximum speed and the braking curve from these data. Because of the spot transmission of data, the train must travel over the Eurobalise beacon to obtain the next movement authority. In order for a stopped train {{to be able to}} move (when the train is not stopped exactly over a balise), there are optical signals that show permission to proceed. With the installation of additional Eurobalises ("infill balises") or a EuroLoop between the distant signal and main signal, the new proceed aspect is transmitted continuously. The <b>EuroLoop</b> <b>is</b> an extension of the Eurobalise over a particular distance that basically allows data to be transmitted continuously to the vehicle over cables emitting electromagnetic waves. A radio version of the <b>EuroLoop</b> <b>is</b> also possible.|$|R
+50|$|A balise transmits telegrams at a {{specific}} site. To allow a continuous transmission the telegrams may be sent along leaky feeder cable being up to 1000 metres long. The <b>Euroloop</b> cable <b>is</b> always connected with a balise at its end which serves as the End of Loop Marker (EOLM). The telegram structure {{is the same as}} for the balise it is connected to. Originally the Euroloop used the same frequency as the Eurobalises but that was changed for specification 2.0.1 in September 2004. <b>Euroloops</b> had <b>been</b> used in Switzerland which completed the change in July 2010.|$|R
+25|$|Positional parameters, such {{as those}} used above are always required, unless {{followed}} by ? to indicate that they <b>are</b> <b>optional.</b> Named parameters <b>are</b> <b>optional</b> by default, but may be marked as required by adding ! after the variable name. Slurpy parameters <b>are</b> always <b>optional.</b>|$|R
+2500|$|Both the [...] "LJ" [...] and [...] "SJ" [...] models came {{standard}} with a [...] V8 that <b>was</b> <b>optional</b> on the Model J. The [...] <b>was</b> <b>optional</b> on all models.|$|R
+2500|$|Vowel/diphthong {{deletion}} {{and reduction}} in class 1b verbs <b>was</b> <b>optional</b> in OKY where it <b>is</b> now <b>optional</b> or obligatory: ...|$|R
+5000|$|The {{standard}} {{engine was}} a 429 cubic-inch V8 {{equipped with a}} two-barrel carburetor. The four-barrel 429 from the Marauder <b>was</b> <b>optional.</b> The sole transmission for the Marquis (and all full-size Lincolns and Mercurys of the period) was the Ford C6 3-speed automatic. Power front disc brakes <b>were</b> <b>optional.</b> [...] During 1972, the 460 cubic inch V-8 <b>was</b> made <b>optional.</b>|$|R
+25|$|Night sight <b>is</b> <b>optional.</b>|$|R
+50|$|The {{religious}} formula <b>is</b> <b>optional.</b>|$|R
+50|$|Indentation <b>is</b> <b>optional.</b> ,, <b>are</b> used {{in between}} true/false statements.They are true/false statements, as print(not true) would mean false.|$|R
+50|$|The Sport Coupe came {{standard}} {{with the}} 151 cuin L LQ9 four-cylinder engine. The 173 cuin L LC1 V6. the 305 cuin L LG4 V8 <b>were</b> <b>optional.</b> Dog dish-style hubcaps were standard; full wheel covers <b>were</b> <b>optional</b> as <b>were</b> steel, five-spoke 14x7-inch body-colored rally wheels.|$|R
+50|$|Here tag_name <b>is</b> <b>optional</b> in some contexts.|$|R
+50|$|Head curtain side {{air bags}} <b>were</b> <b>optional.</b>|$|R
+50|$|SQLite {{with full}} Unicode {{function}} <b>is</b> <b>optional.</b>|$|R
+5000|$|The UDP header {{consists}} of 4 fields, {{each of which}} is 2 bytes (16 bits). The use of the fields [...] "Checksum" [...] and [...] "Source port" [...] <b>is</b> <b>optional</b> in IPv4 (pink background in table). In IPv6 only the source port <b>is</b> <b>optional</b> (see below).|$|R
+50|$|A {{radio and}} a clock <b>were</b> <b>optional</b> extras.|$|R
+50|$|Although fully instrumented, the RA.80-1 radio <b>was</b> <b>optional.</b>|$|R
+50|$|Both {{the onset}} and the coda <b>are</b> <b>optional.</b>|$|R
+50|$|Most of the {{components}} described below <b>are</b> <b>optional.</b>|$|R
+50|$|Less than 24 {{bits per pixel}} <b>is</b> <b>optional.</b>|$|R
+50|$|The nisba <b>is</b> <b>optional</b> but <b>is</b> quite widespread.|$|R
+5000|$|The frame numbering/identification {{preceding}} the timecode <b>is</b> <b>optional</b> ...|$|R
+50|$|Indentation <b>is</b> <b>optional,</b> but {{it helps}} improve the readability.|$|R
+5000|$|COLOR foreground,background - Change pen colors (parameters <b>are</b> <b>optional)</b> ...|$|R
+5000|$|SHOULD: The {{standard}} <b>is</b> <b>optional,</b> but {{recommended for}} implementation.|$|R
+5000|$|... umask [...] maskExpression(the items {{within the}} {{brackets}} <b>are</b> <b>optional)</b> ...|$|R
+5000|$|... 2-Speaker Audio System (Harman Kardon {{audio system}} <b>is</b> <b>optional)</b> ...|$|R
+5000|$|... 4th year/Transition Year(TY) (15-16 years) This year <b>is</b> <b>optional.</b>|$|R
+5000|$|One {{does not}} have to declare the country of {{production}} on labels. This declaration <b>is</b> <b>optional.</b> Care instructions <b>are</b> printed on labels for liability- and compensation-prevention and <b>are</b> also <b>optional.</b>|$|R
+25|$|Only the # {{footnote}} is required. All others <b>are</b> <b>optional.</b>|$|R
+30|$|Secondary {{function}} indicates secondary job role. This part <b>is</b> <b>optional.</b>|$|R
+50|$|Riding {{mechanics}} <b>were</b> <b>optional,</b> however, no teams entered utilized them.|$|R
+50|$|Only the # {{footnote}} is required. All others <b>are</b> <b>optional.</b>|$|R
+5000|$|A General Purpose Schema {{for which}} {{registration}} details <b>are</b> <b>optional.</b>|$|R

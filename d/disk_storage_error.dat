@@ -1,0 +1,37 @@
+0|1490|Public
+5000|$|<b>Disk</b> <b>storage</b> {{controller}} (1956 enhancement {{for then}} new IBM 355 <b>Disk</b> <b>Storage</b> Unit) (5 extra operation codes) ...|$|R
+5000|$|... 2314 Storage Control Unit Model A1 - This SCU was {{announced}} initially {{as a part}} of an A Series DASF and shortly thereafter unbundled. The unbundled DASD models were the one drive 2312 <b>Disk</b> <b>Storage,</b> the four drive 2313 <b>Disk</b> <b>Storage</b> and the two drive 2318 <b>Disk</b> <b>Storage.</b> One to nine drives could be attached as in the Model A1 DASF.|$|R
+5000|$|... 2314 Storage Control Unit Model B1 - Part of the B series, this SCU {{attaches}} a three drive 2319-B1 <b>Disk</b> <b>Storage</b> and optionally {{one or two}} additional, three drive 2319-B2 <b>Disk</b> <b>Storages.</b>|$|R
+50|$|IBM 2311 <b>Disk</b> <b>Storage.</b>|$|R
+5000|$|Data compression—reducing {{transmission}} bandwidth and <b>disk</b> <b>storage</b> ...|$|R
+50|$|For <b>disk</b> <b>storage,</b> MenuetOS {{supports}} the FAT32 file system.|$|R
+50|$|IBM 2302 <b>Disk</b> <b>Storage,</b> Models 3, four units maximum.|$|R
+50|$|IBM 2311 <b>Disk</b> <b>Storage,</b> Model 1, eight units maximum.|$|R
+5000|$|Util-linux ionice (see {{manual for}} <b>Disk</b> <b>storage</b> I/O priorities) ...|$|R
+50|$|REV is a {{removable}} hard <b>disk</b> <b>storage</b> system from Iomega.|$|R
+5000|$|<b>Disk</b> <b>storage</b> {{for both}} {{magnetic}} and optical recording of disks ...|$|R
+5000|$|<b>Disk</b> <b>storage</b> {{products}} {{that can be}} attached via FICON include: ...|$|R
+5000|$|Goddard and Lynott, , [...] "Direct Access Magnetic <b>Disk</b> <b>Storage</b> Device" ...|$|R
+50|$|The first {{commercial}} digital <b>disk</b> <b>storage</b> device was the IBM 350 which shipped in 1956 {{as a part}} of the IBM 305 RAMAC computing system. The random-access, low-density <b>storage</b> of <b>disks</b> was developed to complement the already used sequential-access, high-density storage provided by tape drives using magnetic tape. Vigorous innovation in <b>disk</b> <b>storage</b> technology, coupled with less vigorous innovation in tape storage, has reduced the difference in acquisition cost per terabyte between <b>disk</b> <b>storage</b> and tape storage; however, the total cost of ownership of data on disk including power and management remains larger than that of tape.|$|R
+5000|$|... {{approximately}} six petabytes of raw <b>disk</b> <b>storage</b> {{with high}} input/output bandwidth; ...|$|R
+50|$|Fast data {{recovery}} and application access from virtual-volume images on <b>disk</b> <b>storage.</b>|$|R
+50|$|There {{were other}} digital cameras that used <b>disk</b> <b>storage</b> as memory media.|$|R
+5000|$|Two {{optional}} <b>Disk</b> <b>Storage</b> Modules for HDDs, six 3.5-inch SAS/SATA drives each.|$|R
+5000|$|A unique {{feature of}} the Model 44 was its {{integrated}} single <b>disk</b> <b>storage</b> drive which used the IBM 2315 cartridge and provided 1,171,200 bytes [...] of removable <b>disk</b> <b>storage</b> built right into the CPU. A second integrated drive was available as an option. The Model 44 Programming System (M44PS) used this drive as a systems residence device.|$|R
+5000|$|ISO/TR 10255:2009, Document {{management}} applications — Optical <b>disk</b> <b>storage</b> technology, {{management and}} standards ...|$|R
+50|$|The IBM 7300 <b>Disk</b> <b>Storage</b> Unit had a {{capacity}} of 6 million digits.|$|R
+5000|$|As {{many as four}} 2311 <b>Disk</b> <b>Storage</b> Drives Model l (with file scan feature) ...|$|R
+50|$|Virtual {{disk and}} virtual drive are {{software}} components that emulate an actual <b>disk</b> <b>storage</b> device.|$|R
+5000|$|The {{ability to}} switch hard <b>disk</b> <b>storage</b> type from Basic to Dynamic and vice versa.|$|R
+50|$|From 1961: the IBM 1301-1 <b>Disk</b> <b>Storage</b> Unit {{which had}} a {{capacity}} of 28 million characters.|$|R
+5000|$|IBM 305 RAMAC (vacuum tube logic, first {{computer}} with disk storage; see: Early IBM <b>disk</b> <b>storage)</b> ...|$|R
+5000|$|Smart Response Technology (SRT) a {{proprietary}} <b>disk</b> <b>storage</b> caching mechanism, developed by Intel for its chipsets ...|$|R
+50|$|Frost & Sullivan awards DDN its World <b>Disk</b> <b>Storage</b> for Best Practice For Video Surveillance Capture & Archive.|$|R
+50|$|Data shared via {{peer-to-peer}} {{file sharing}} contains shared file content, computing cycles and <b>disk</b> <b>storage,</b> among other resources.|$|R
+50|$|High {{performing}} <b>disk</b> <b>storage</b> {{and less}} expensive, slower disk {{of the same}} capacity and function: two separate tiers.|$|R
+5000|$|... 2008: Frost & Sullivan awards DDN its World <b>Disk</b> <b>Storage</b> for Digital Media Market Product Differentiation Innovation Award.|$|R
+40|$|Abstract—In this paper, we {{describe}} a whole-system live migration scheme, which transfers {{the whole system}} run-time state, including CPU state, memory data, and local <b>disk</b> <b>storage,</b> of the virtual machine (VM). To minimize the downtime caused by migrating large <b>disk</b> <b>storage</b> data and keep data integrity and consistency, we propose a three-phase migration (TPM) algorithm. To facilitate the migration back to initial source machine, we use an incremental migration (IM) algorithm {{to reduce the amount}} of the data to be migrated. Block-bitmap is used to track all the write accesses to the local <b>disk</b> <b>storage</b> during the migration. Synchronization of the local <b>disk</b> <b>storage</b> in the migration is performed according to the block-bitmap. Experiments show that our algorithms work well even when I/Ointensive workloads are running in the migrated VM. The downtime of the migration is around 100 milliseconds, close to shared-storage migration. Total migration time is greatly reduced using IM. The block-bitmap based synchronization mechanism is simple and effective. Performance overhead of recording all the writes on migrated VM is very low. I...|$|R
+50|$|The Jaz {{drive is}} a {{removable}} hard <b>disk</b> <b>storage</b> system {{sold by the}} Iomega company from 1996 to 2002.|$|R
+5000|$|Two, {{three or}} four {{directly}} attached IBM 3333 <b>disk</b> <b>storage</b> units provided [...] "up to 400 million bytes online." ...|$|R
+50|$|Each year hard <b>disk</b> <b>storage</b> {{capacity}} gets {{larger and}} is able to hold hours of movies on Tera Byte systems.|$|R
+5000|$|IBM 355 <b>Disk</b> <b>Storage</b> Unit [...] Systems with a {{disk unit}} {{were known as}} IBM 650 RAMAC Data Processing Systems ...|$|R

@@ -1,0 +1,37 @@
+1|1619|Public
+40|$|Reason {{for change}} and {{expected}} benefits/business motivation: In spring 2014 several workshops on volumetric assumptions and timeline of End-of-Day/Start-of-Day took place. Within these workshops the possibilities to query information on all securities positions resp. settlement instructions of a CSD were discussed with the aim to facilitate the CSD’s reconciliation of settlement instructions and securities positions. The option to send several queries (e. g. per account owning party or per instructing party) and to receive for each query one query response was not deemed useful. Instead, the CSDs intend to send one query and to receive one query response. Thus, the need to query securities positions and settlement instructions by CSD has arisen. The participants of the workshop identified the need to retrieve all settlement instructions within the CSD by sending a single query. Similarly, {{there is a need}} to retrieve all securities positions of previous business days on securities accounts of the CSD itself and all its CSD participants by sending a single query. Moreover, it was identified in these workshops that {{there is a need to}} include in a Statement of Pending Instructions not only those Settlement Instructions which expect settlement at the current business day. For complete and delta reports, all Settlement Instructions within the data scope covered by the report shall be taken into account regardless of their <b>intended</b> <b>settlement</b> <b>date.</b> This allows CSDs to correctly reconcile the pending instructions before sending the reportin...|$|E
+50|$|The {{earliest}} archeological {{evidence of}} <b>settlement</b> <b>dates</b> to the 8th century, {{and the first}} written record of a <b>settlement</b> <b>dates</b> to April 13, 1059 {{in the time of}} Friedrich Barbarossa. The city earned its charter on April 27, 1426 under Prince Frederick Bishop of Bamberg.|$|R
+50|$|A small chapel in the <b>settlement</b> <b>dates</b> to 1860.|$|R
+50|$|A small chapel-shrine in the <b>settlement</b> <b>dates</b> to 1820.|$|R
+50|$|First {{mention of}} the <b>settlement</b> <b>dates</b> back to 1131.|$|R
+50|$|It is {{occasionally}} {{referred to}} as Contractual <b>Settlement</b> <b>Date.</b>|$|R
+50|$|A round {{roadside}} chapel-shrine in the <b>settlement</b> <b>dates</b> to 1938.|$|R
+50|$|A small chapel in the <b>settlement</b> <b>dates</b> {{to around}} 1800.|$|R
+50|$|A small {{hexagonal}} chapel-shrine in the <b>settlement</b> <b>dates</b> to 1871.|$|R
+50|$|A small {{roadside}} chapel in the <b>settlement</b> <b>dates</b> to 1880.|$|R
+50|$|A small {{roadside}} chapel-shrine in the <b>settlement</b> <b>dates</b> to 1775.|$|R
+50|$|The first clear {{record of}} <b>settlement</b> <b>dates</b> to about 1786.|$|R
+50|$|A small chapel-shrine in the <b>settlement</b> <b>dates</b> to the 19th century.|$|R
+50|$|A 6 m plague {{column in}} the <b>settlement</b> <b>dates</b> to 1712.|$|R
+50|$|The first written {{mention of}} the <b>settlement</b> <b>dates</b> back to 1512.|$|R
+5000|$|The first written {{mention of}} the <b>settlement</b> <b>dates</b> back to 1410.|$|R
+5000|$|Milton Damerel's <b>settlement</b> <b>dates</b> back to Saxon times. Pre-Norman {{settlements}} included: ...|$|R
+50|$|A small chapel in the <b>settlement</b> <b>dates</b> to {{the early}} 20th century.|$|R
+50|$|A small chapel-shrine in {{the centre}} of the <b>settlement</b> <b>dates</b> to 1882.|$|R
+50|$|A small chapel-shrine in the <b>settlement</b> <b>dates</b> to {{the early}} 20th century.|$|R
+50|$|A small chapel-shrine in the <b>settlement</b> <b>dates</b> to {{the late}} 19th century.|$|R
+5000|$|A small chapel-shrine in the <b>settlement</b> <b>dates</b> to {{the early}} 20th century.|$|R
+5000|$|A small chapel-shrine in the <b>settlement</b> <b>dates</b> to {{the late}} 19th century.|$|R
+50|$|In the United States, the <b>settlement</b> <b>date</b> for {{marketable}} stocks {{is usually}} 3 business days or T+3 (soon changing to T+2) after the trade is executed, and for listed options and government securities {{it is usually}} 1 day after the execution. In Europe, <b>settlement</b> <b>date</b> has recently been adopted as 2 business days settlement cycles T+2.|$|R
+50|$|A small {{roadside}} chapel-shrine in the <b>settlement</b> <b>dates</b> to {{the early}} 20th century.|$|R
+5000|$|A small {{roadside}} chapel-shrine {{south of}} the <b>settlement</b> <b>dates</b> to the 19th century.|$|R
+50|$|Two small {{roadside}} chapel-shrines in the <b>settlement</b> <b>date</b> to {{the early}} 20th century.|$|R
+50|$|Six burial mounds {{close to}} the <b>settlement</b> <b>date</b> to the Early Iron Age.|$|R
+50|$|A small chapel in {{the centre}} of the <b>settlement</b> <b>dates</b> to the mid-19th century.|$|R
+50|$|Melkridge is {{the locus}} of prehistoric <b>settlement</b> <b>dating</b> to about 500 to 2500 BC.|$|R
+5000|$|Chronology: The <b>settlement</b> <b>dates</b> {{from the}} late Iron Age: {{the last two centuries}} BC.|$|R
+50|$|A small chapel-shrine with {{a wooden}} belfry in <b>settlement</b> <b>dates</b> to the late 19th century.|$|R
+50|$|Two small chapel-shrines in the <b>settlement</b> <b>date</b> to {{the late}} 19th and early 20th centuries.|$|R
+50|$|Two small chapels in the <b>settlement</b> <b>date</b> to {{the second}} half of the 19th century.|$|R
+50|$|Two small {{roadside}} chapel-shrines in the <b>settlement</b> <b>date</b> to 1865 and {{the early}} 20th century.|$|R
+50|$|Three {{roadside}} chapels in the <b>settlement</b> <b>date</b> to {{the late}} 19th and early 20th centuries.|$|R
